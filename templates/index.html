@@ -1,1 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Marketing Cost Optimization</title>
 
+  <!-- CSS styles -->
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 15px;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      margin: 0;
+      font-weight: 500;
+      line-height: 1.1;
+      color: #333;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+      margin-top: 50px;
+    }
+
+    h5 {
+      font-size: 24px;
+      margin-bottom: 30px;
+    }
+
+    input[type=text] {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+    }
+
+    .btn-large {
+      font-size: 16px;
+      font-weight: 500;
+      color: #fff;
+      background-color: #ffa726;
+      padding: 10px 30px;
+      border-radius: 5px;
+      border: none;
+      text-align: center;
+      cursor: pointer;
+      display: inline-block;
+      margin-top: 30px;
+      transition: all 0.3s ease-out;
+    }
+
+    .btn-large:hover {
+      background-color: #ff9100;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="header center orange-text">Marketing Cost Optimization</h1>
+    <div class="row center">
+      <h5 class="header col s12 light">Predict the marketing cost</h5>
+    </div>
+    <div class="row">
+      <form action="/predict" method="post" class="col s12">
+        <div class="row">
+          <div class="input-field col s6 offset-s3">
+            <label for="region"><b>Region</b></label>
+            <input placeholder="Input region code" name="Region" id="region" type="text" class="validate">
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s6 offset-s3">
+            <label for="results"><b>Results</b></label>
+            <input id="results" name="Results" placeholder="Number of leads" type="text" class="validate">
+          </div>
+        </div>
+        <div class="row center">
+          <button type="submit" class="btn-large waves-effect waves-light orange">Predict cost</button>
+        </div>
+      </form>
+    </div>
+    <footer style="position: absolute; bottom: 0; right: 0; font-size: 14px; color: #333;">
+        Region code: Andhra Pradesh-0, Assam-1, Bihar-2, Chandigarh-3, Chhattisgarh-4, Dadra and Nagar Haveli-5, Delhi-6, Goa-7, Gujarat-8, Haryana-9, Himachal Pradesh-10, Jammu and Kashmir-11, Jharkhand-12, Karnataka-13, Kerala-14, Madhya Pradesh-15, Maharashtra-16, Manipur-17, Meghalaya-18, Mizoram-19, Odisha-20, Puducherry-21, Punjab region-22, Rajasthan-23, Tamil Nadu-24, Telangana-25, Tripura-26, Unknown-27, Uttar Pradesh-28, Uttarakhand-29, West Bengal-30
+
+        Created by Raneev Narayanan
+      </footer>      
+    <br>
+    {{pred}}<br>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://code
