@@ -16,17 +16,12 @@ Puducherry,26703,150
 Punjab region,54595,436
 Chandigarh,9289,205
 Tripura,5041,94
-Manipur,0,171
-Mizoram,0,163
-Himachal Pradesh,0,128
-Unknown,0,358
 Andhra Pradesh,24449,234
 West Bengal,6821,68
 Andhra Pradesh,26956,258
 West Bengal,21667,216
 Bihar,28094,261
 Telangana,33100,310
-Unknown,0,317
 Tamil Nadu,34659,359
 Karnataka,30837,306
 Maharashtra,1619,15
@@ -37,7 +32,6 @@ Delhi,39601,369
 Tamil Nadu,32245,334
 Telangana,45272,424
 Andhra Pradesh,418,4
-Unknown,0,93
 Maharashtra,30649,284
 West Bengal,4614,46
 Madhya Pradesh,29853,288
@@ -63,7 +57,6 @@ Andhra Pradesh,3552,34
 Gujarat,24802,264
 Haryana,40825,442
 Tamil Nadu,41320,428
-Unknown,0,392
 Madhya Pradesh,6738,65
 Andhra Pradesh,7523,72
 Karnataka,16729,166
@@ -74,7 +67,6 @@ Chandigarh,15814,349
 Karnataka,12597,125
 Uttar Pradesh,8469,137
 Bihar,22389,208
-Mizoram,0,89
 Punjab region,53092,424
 Delhi,27044,252
 Odisha,492,5
@@ -92,7 +84,6 @@ Assam,473,4
 Jammu and Kashmir,21253,316
 Rajasthan,4898,55
 Haryana,17734,192
-Manipur,0,120
 Odisha,24510,249
 Tripura,7401,138
 Bihar,10979,102
@@ -120,7 +111,6 @@ Madhya Pradesh,30474,294
 Telangana,37584,352
 Punjab region,20410,163
 West Bengal,4514,45
-Unknown,0,274
 Punjab region,53968,431
 Madhya Pradesh,1244,12
 Andhra Pradesh,21001,201
@@ -136,7 +126,6 @@ Madhya Pradesh,43120,416
 Andhra Pradesh,41375,396
 Telangana,6727,63
 Delhi,53123,495
-Unknown,0,67
 Karnataka,43736,434
 Odisha,35732,363
 Bihar,22389,208
@@ -161,7 +150,6 @@ Madhya Pradesh,25292,244
 Jharkhand,29649,499
 Uttarakhand,7146,94
 Gujarat,41618,443
-Manipur,0,107
 West Bengal,38619,385
 Delhi,23825,222
 Bihar,37028,344
@@ -174,7 +162,6 @@ Tamil Nadu,17185,178
 Telangana,36303,340
 Andhra Pradesh,10971,105
 Assam,40695,344
-Mizoram,0,34
 Uttarakhand,5246,69
 Haryana,18842,204
 Telangana,1602,15
@@ -194,16 +181,13 @@ Maharashtra,49750,461
 West Bengal,9730,97
 Madhya Pradesh,43431,419
 Jammu and Kashmir,23002,342
-Himachal Pradesh,0,298
 Puducherry,47709,268
 Punjab region,36814,294
 Assam,39275,332
 Chandigarh,22520,497
-Manipur,0,233
 Tripura,15016,280
 Delhi,18566,173
 Andhra Pradesh,49733,476
-Unknown,0,67
 Madhya Pradesh,28609,276
 Karnataka,32752,325
 Odisha,37012,376
@@ -237,16 +221,13 @@ Maharashtra,31404,291
 Telangana,33100,310
 Madhya Pradesh,23841,230
 Punjab region,18908,151
-Unknown,0,1
 Andhra Pradesh,26225,251
 Tamil Nadu,31762,329
 Andhra Pradesh,51823,496
 Karnataka,21767,216
-Unknown,0,335
 Punjab region,42574,340
 Delhi,22322,208
 Odisha,31499,320
-Unknown,0,133
 Telangana,34595,324
 Haryana,9144,99
 West Bengal,39723,396
@@ -260,7 +241,6 @@ West Bengal,17855,178
 Andhra Pradesh,11597,111
 Tamil Nadu,965,10
 Madhya Pradesh,21560,208
-Unknown,0,18
 Telangana,37584,352
 Maharashtra,11763,109
 Bihar,40903,380
@@ -274,7 +254,6 @@ Punjab region,22539,180
 Chandigarh,19847,438
 Delhi,40459,377
 Delhi,17708,165
-Unknown,0,253
 Andhra Pradesh,41584,398
 Odisha,24117,245
 Punjab region,4257,34
@@ -307,7 +286,6 @@ Delhi,15025,140
 Jharkhand,26500,446
 West Bengal,34707,346
 Rajasthan,38913,437
-Manipur,0,484
 Punjab region,20911,167
 Maharashtra,37016,343
 Uttar Pradesh,12919,209
@@ -320,7 +298,6 @@ Chandigarh,13367,295
 Karnataka,4233,42
 Tamil Nadu,15640,162
 Telangana,37157,348
-Unknown,0,465
 Haryana,13301,144
 Punjab region,61356,490
 Delhi,34557,322
@@ -346,10 +323,6 @@ Punjab region,9141,73
 Assam,8872,75
 Chandigarh,5483,121
 Tripura,10512,196
-Himachal Pradesh,0,40
-Manipur,0,155
-Mizoram,0,195
-Unknown,0,379
 Madhya Pradesh,4872,47
 Karnataka,18341,182
 Puducherry,72276,406
@@ -358,7 +331,6 @@ Andhra Pradesh,45972,440
 Odisha,38390,390
 Haryana,19858,215
 Bihar,33799,314
-Unknown,0,444
 Delhi,45718,426
 Punjab region,39569,316
 West Bengal,4414,44
@@ -403,20 +375,16 @@ Maharashtra,12195,113
 Andhra Pradesh,25911,248
 Madhya Pradesh,24359,235
 Telangana,46019,431
-Unknown,0,210
 Odisha,42918,436
 Punjab region,12396,99
 Telangana,21889,205
 Delhi,36596,341
 Tamil Nadu,34466,357
-Unknown,0,403
 Bihar,10549,98
 Punjab region,8640,69
 Odisha,17620,179
-Unknown,0,94
 Telangana,214,2
 Maharashtra,33239,308
-Unknown,0,231
 Punjab region,8765,70
 Tamil Nadu,9172,95
 Bihar,31216,290
@@ -434,7 +402,6 @@ Andhra Pradesh,36673,351
 Karnataka,30333,301
 Tamil Nadu,34176,354
 Karnataka,16326,162
-Unknown,0,446
 Andhra Pradesh,17239,165
 Telangana,14735,138
 Karnataka,2116,21
@@ -455,14 +422,11 @@ West Bengal,33905,338
 Bihar,20882,194
 Punjab region,50337,402
 Madhya Pradesh,19798,191
-Unknown,0,495
 Odisha,26085,265
 Tamil Nadu,25391,263
 Andhra Pradesh,13165,126
 Maharashtra,6799,63
-Manipur,0,434
 Delhi,1288,12
-Unknown,0,408
 Maharashtra,22231,206
 Jammu and Kashmir,28315,421
 Bihar,53713,499
@@ -487,7 +451,6 @@ Uttarakhand,16801,221
 Chhattisgarh,30220,284
 Tamil Nadu,43927,455
 Gujarat,40867,435
-Mizoram,0,272
 Madhya Pradesh,16481,159
 Tripura,7294,136
 Kerala,9837,157
@@ -521,7 +484,6 @@ West Bengal,16551,165
 Tamil Nadu,48271,500
 Karnataka,37388,371
 Maharashtra,14569,135
-Unknown,0,459
 Delhi,7834,73
 Punjab region,1002,8
 Punjab region,32932,263
@@ -529,8 +491,6 @@ Telangana,2883,27
 Odisha,34944,355
 Karnataka,16326,162
 Punjab region,15026,120
-Unknown,0,182
-Manipur,0,429
 Maharashtra,10792,100
 Andhra Pradesh,42524,407
 Tamil Nadu,36203,375
@@ -538,8 +498,6 @@ Bihar,5059,47
 Tamil Nadu,28480,295
 Telangana,214,2
 Haryana,92,1
-Unknown,0,471
-Unknown,0,196
 Punjab region,46581,372
 Telangana,38118,357
 Maharashtra,11116,103
@@ -601,17 +559,14 @@ Delhi,28332,264
 Tamil Nadu,37169,385
 Punjab region,29176,233
 Andhra Pradesh,50360,482
-Himachal Pradesh,0,275
 Telangana,34381,322
 Tamil Nadu,14964,155
 Chandigarh,9017,199
 Puducherry,78684,442
 Tripura,25421,474
-Manipur,0,452
 Uttarakhand,24403,321
 Karnataka,25899,257
 Jammu and Kashmir,23607,351
-Unknown,0,459
 Chhattisgarh,23729,223
 Andhra Pradesh,9926,95
 Delhi,19425,181
@@ -649,11 +604,9 @@ Jammu and Kashmir,1950,29
 Jharkhand,22697,382
 Delhi,20820,194
 Assam,39512,334
-Mizoram,0,490
 Puducherry,13351,75
 Tripura,26440,493
 Chandigarh,10648,235
-Manipur,0,479
 Punjab region,35812,286
 Kerala,13221,211
 Uttarakhand,6386,84
@@ -672,7 +625,6 @@ Uttar Pradesh,29609,479
 Odisha,14372,146
 West Bengal,28588,285
 Telangana,854,8
-Unknown,0,45
 Karnataka,21566,214
 Punjab region,60480,483
 Madhya Pradesh,50583,488
@@ -685,7 +637,6 @@ Tamil Nadu,9944,103
 Madhya Pradesh,32029,309
 Telangana,35556,333
 Delhi,45825,427
-Unknown,0,17
 Bihar,12486,116
 Punjab region,39569,316
 Haryana,9052,98
@@ -717,18 +668,15 @@ Haryana,28633,310
 Andhra Pradesh,15881,152
 Bihar,11302,105
 West Bengal,48951,488
-Unknown,0,51
 Andhra Pradesh,34897,334
 Telangana,13347,125
 Telangana,26480,248
-Unknown,0,422
 Andhra Pradesh,41897,401
 Tamil Nadu,47209,489
 Telangana,1815,17
 Karnataka,15116,150
 Telangana,11959,112
 Madhya Pradesh,23322,225
-Unknown,0,466
 Karnataka,5039,50
 Odisha,44690,454
 Telangana,20287,190
@@ -749,7 +697,6 @@ Karnataka,32752,325
 Madhya Pradesh,34310,331
 Bihar,12809,119
 Delhi,19747,184
-Unknown,0,201
 Telangana,4164,39
 Punjab region,39569,316
 Maharashtra,50290,466
@@ -757,7 +704,6 @@ Tamil Nadu,4827,50
 West Bengal,26983,269
 Telangana,33634,315
 Haryana,11546,125
-Unknown,0,489
 Delhi,47650,444
 Odisha,10926,111
 Punjab region,29050,232
@@ -782,14 +728,12 @@ Andhra Pradesh,37927,363
 Telangana,22209,208
 Punjab region,31555,252
 West Bengal,39221,391
-Unknown,0,155
 Tamil Nadu,37845,392
 Andhra Pradesh,13478,129
 Bihar,14209,132
 Madhya Pradesh,26121,252
 Telangana,40574,380
 Telangana,8008,75
-Unknown,0,96
 Andhra Pradesh,6373,61
 Karnataka,6651,66
 Karnataka,9674,96
@@ -797,12 +741,10 @@ Karnataka,6550,65
 Gujarat,2818,30
 Uttar Pradesh,989,16
 Chandigarh,10286,227
-Manipur,0,163
 West Bengal,19962,199
 Karnataka,42426,421
 Kerala,11842,189
 Rajasthan,35262,396
-Unknown,0,234
 Telangana,29790,279
 Tamil Nadu,30507,316
 Jharkhand,5942,100
@@ -816,7 +758,6 @@ Delhi,9659,90
 Maharashtra,45110,418
 Uttarakhand,19766,260
 Madhya Pradesh,12439,120
-Unknown,0,385
 Punjab region,7889,63
 Delhi,1610,15
 Maharashtra,5288,49
@@ -860,14 +801,11 @@ Puducherry,70317,395
 Andhra Pradesh,4806,46
 Tripura,4451,83
 Assam,27919,236
-Mizoram,0,185
-Himachal Pradesh,0,454
 Maharashtra,8310,77
 Delhi,22215,207
 West Bengal,18457,184
 Madhya Pradesh,40529,391
 Bihar,7858,73
-Unknown,0,436
 Karnataka,50287,499
 Bihar,50591,470
 Punjab region,16153,129
@@ -875,7 +813,6 @@ Tamil Nadu,47209,489
 Telangana,10571,99
 Odisha,45969,467
 Odisha,45280,460
-Unknown,0,333
 Maharashtra,42628,395
 Punjab region,14650,117
 Odisha,16242,165
@@ -931,10 +868,8 @@ Telangana,10998,103
 Delhi,43786,408
 Madhya Pradesh,50791,490
 West Bengal,28287,282
-Mizoram,0,185
 Karnataka,25496,253
 Punjab region,62483,499
-Unknown,0,445
 West Bengal,23472,234
 Andhra Pradesh,50047,479
 Telangana,3524,33
@@ -955,7 +890,6 @@ Tamil Nadu,24522,254
 Uttar Pradesh,18421,298
 Madhya Pradesh,4146,40
 Delhi,28010,261
-Unknown,0,121
 Maharashtra,37448,347
 Karnataka,9070,90
 West Bengal,21667,216
@@ -965,7 +899,6 @@ Andhra Pradesh,28941,277
 Tamil Nadu,5117,53
 Telangana,39933,374
 Odisha,16832,171
-Unknown,0,197
 Haryana,13855,150
 Telangana,9716,91
 Tamil Nadu,42286,438
@@ -975,7 +908,6 @@ Tamil Nadu,24618,255
 Maharashtra,2158,20
 Andhra Pradesh,6373,61
 Telangana,28936,271
-Unknown,0,20
 Maharashtra,38095,353
 Karnataka,33961,337
 Tamil Nadu,5503,57
@@ -986,9 +918,7 @@ Telangana,747,7
 Tamil Nadu,10427,108
 Andhra Pradesh,44405,425
 West Bengal,35008,349
-Unknown,0,412
 Maharashtra,40254,373
-Unknown,0,385
 Delhi,39064,364
 Karnataka,3326,33
 Andhra Pradesh,9926,95
@@ -1028,7 +958,6 @@ West Bengal,31798,317
 Karnataka,40713,404
 Madhya Pradesh,4975,48
 Delhi,17386,162
-Manipur,0,161
 Telangana,15162,142
 Punjab region,54094,432
 Odisha,197,2
@@ -1054,7 +983,6 @@ Tamil Nadu,42865,444
 Jammu and Kashmir,9012,134
 Bihar,33153,308
 Tripura,24402,455
-Mizoram,0,443
 Andhra Pradesh,28419,272
 Chandigarh,16312,360
 Punjab region,51965,415
@@ -1062,7 +990,6 @@ Tamil Nadu,19888,206
 Jharkhand,13487,227
 Uttarakhand,32386,426
 Uttar Pradesh,2720,44
-Unknown,0,271
 Delhi,6439,60
 Andhra Pradesh,41270,395
 Karnataka,3729,37
@@ -1081,10 +1008,8 @@ Bihar,41549,386
 Karnataka,36178,359
 Madhya Pradesh,26225,253
 West Bengal,21466,214
-Unknown,0,471
 Delhi,24254,226
 Bihar,13563,126
-Unknown,0,247
 Telangana,33954,318
 Karnataka,18543,184
 Punjab region,4383,35
@@ -1114,7 +1039,6 @@ Tamil Nadu,8496,88
 Telangana,52533,492
 Tamil Nadu,11295,117
 Andhra Pradesh,40748,390
-Unknown,0,221
 Tamil Nadu,14771,153
 Punjab region,34309,274
 Odisha,36815,374
@@ -1123,7 +1047,6 @@ Karnataka,30736,305
 Bihar,46285,430
 Karnataka,1411,14
 Delhi,15347,143
-Unknown,0,163
 Haryana,39902,432
 Telangana,50824,476
 Tamil Nadu,37458,388
@@ -1134,7 +1057,6 @@ Maharashtra,29462,273
 Tamil Nadu,34466,357
 Andhra Pradesh,9403,90
 Telangana,21461,201
-Unknown,0,341
 Odisha,9647,98
 Maharashtra,40901,379
 Maharashtra,42736,396
@@ -1142,22 +1064,17 @@ Maharashtra,32807,304
 Bihar,44240,411
 Karnataka,38496,382
 Tamil Nadu,16123,167
-Manipur,0,189
 Kerala,17795,284
 Telangana,13881,130
 Bihar,37351,347
 Tamil Nadu,35624,369
 Punjab region,33934,271
-Himachal Pradesh,0,138
 Assam,22950,194
-Mizoram,0,227
 Chandigarh,272,6
 Tripura,15606,291
 Puducherry,22074,124
-Manipur,0,467
 Uttarakhand,36263,477
 Punjab region,45955,367
-Mizoram,0,227
 Tripura,4719,88
 Chhattisgarh,17025,160
 Jharkhand,12180,205
@@ -1218,7 +1135,6 @@ Maharashtra,11008,102
 Bihar,18729,174
 Karnataka,17031,169
 Delhi,37132,346
-Unknown,0,160
 Karnataka,20961,208
 Haryana,3325,36
 Punjab region,17781,142
@@ -1231,9 +1147,7 @@ Tamil Nadu,33983,352
 Telangana,45486,426
 Andhra Pradesh,24031,230
 Telangana,41428,388
-Unknown,0,209
 Tamil Nadu,44699,463
-Unknown,0,261
 Karnataka,21364,212
 Haryana,38886,421
 Jharkhand,13547,228
@@ -1267,9 +1181,7 @@ Bihar,45209,420
 Odisha,25298,257
 Bihar,9365,87
 Odisha,48824,496
-Himachal Pradesh,0,396
 Tripura,11745,219
-Manipur,0,302
 Chandigarh,17355,383
 Jammu and Kashmir,17890,266
 Uttar Pradesh,1978,32
@@ -1287,8 +1199,6 @@ Delhi,41962,391
 Andhra Pradesh,4597,44
 Madhya Pradesh,16170,156
 Telangana,32673,306
-Unknown,0,273
-Unknown,0,476
 Andhra Pradesh,52032,498
 Telangana,17831,167
 Tamil Nadu,26260,272
@@ -1326,10 +1236,8 @@ Madhya Pradesh,2177,21
 Delhi,25005,233
 Telangana,16336,153
 Maharashtra,32268,299
-Unknown,0,330
 Delhi,5151,48
 Punjab region,16529,132
-Unknown,0,304
 Andhra Pradesh,29464,282
 Madhya Pradesh,10158,98
 West Bengal,4414,44
@@ -1346,7 +1254,6 @@ Tamil Nadu,23074,239
 Andhra Pradesh,40539,388
 Haryana,45351,491
 Telangana,6300,59
-Unknown,0,430
 Haryana,39902,432
 Telangana,4484,42
 Karnataka,11085,110
@@ -1369,7 +1276,6 @@ Bihar,14639,136
 Tamil Nadu,2317,24
 Maharashtra,19533,181
 Madhya Pradesh,29438,284
-Unknown,0,22
 Karnataka,45248,449
 Andhra Pradesh,8985,86
 Telangana,37905,355
@@ -1397,7 +1303,6 @@ Rajasthan,17631,198
 West Bengal,25679,256
 Delhi,19317,180
 Maharashtra,46081,427
-Unknown,0,91
 Tamil Nadu,13999,145
 Andhra Pradesh,4702,45
 Telangana,42709,400
@@ -1421,9 +1326,6 @@ Haryana,31681,343
 Kerala,11466,183
 Uttar Pradesh,1360,22
 Jammu and Kashmir,9887,147
-Himachal Pradesh,0,448
-Mizoram,0,221
-Manipur,0,488
 Assam,48384,409
 Puducherry,74412,418
 Chandigarh,13276,293
@@ -1436,16 +1338,12 @@ Odisha,32779,333
 Karnataka,27108,269
 West Bengal,5718,57
 Telangana,12279,115
-Unknown,0,463
 Tripura,24992,466
-Unknown,0,153
 Andhra Pradesh,45658,437
 Tamil Nadu,965,10
 Andhra Pradesh,45763,438
 Haryana,32143,348
 Delhi,50977,475
-Mizoram,0,49
-Himachal Pradesh,0,447
 Maharashtra,7231,67
 Odisha,10139,103
 Maharashtra,33023,306
@@ -1460,14 +1358,12 @@ Karnataka,47868,475
 Maharashtra,19533,181
 Telangana,52533,492
 Tamil Nadu,41996,435
-Unknown,0,439
 Delhi,10839,101
 Bihar,51022,474
 Punjab region,22539,180
 Andhra Pradesh,6478,62
 Punjab region,61607,492
 Tamil Nadu,2220,23
-Unknown,0,181
 Karnataka,20558,204
 Tamil Nadu,44699,463
 Bihar,48331,449
@@ -1477,7 +1373,6 @@ Bihar,35629,331
 Odisha,19785,201
 Andhra Pradesh,24553,235
 Tamil Nadu,579,6
-Unknown,0,427
 Karnataka,28822,286
 Delhi,16956,158
 Bihar,17007,158
@@ -1511,7 +1406,6 @@ Chhattisgarh,33519,315
 Odisha,29826,303
 Uttarakhand,37859,498
 Tamil Nadu,47789,495
-Unknown,0,8
 Telangana,46126,432
 Odisha,16931,172
 Delhi,35845,334
@@ -1571,7 +1465,6 @@ Tamil Nadu,28287,293
 Karnataka,6450,64
 Telangana,37905,355
 Haryana,15425,167
-Unknown,0,295
 Karnataka,11388,113
 Punjab region,47332,378
 West Bengal,12238,122
@@ -1590,14 +1483,12 @@ Karnataka,30031,298
 Andhra Pradesh,6060,58
 Maharashtra,15216,141
 Tamil Nadu,22687,235
-Unknown,0,343
 Rajasthan,28762,323
 Chhattisgarh,36818,346
 Delhi,28869,269
 Haryana,34083,369
 Maharashtra,18562,172
 Bihar,7427,69
-Unknown,0,178
 West Bengal,39622,395
 Uttar Pradesh,2349,38
 Andhra Pradesh,38658,370
@@ -1608,7 +1499,6 @@ West Bengal,47948,478
 Tamil Nadu,2800,29
 Madhya Pradesh,11402,110
 Odisha,8170,83
-Unknown,0,134
 Andhra Pradesh,26747,256
 Bihar,16469,153
 Andhra Pradesh,28105,269
@@ -1627,7 +1517,6 @@ Tamil Nadu,3282,34
 Telangana,29256,274
 West Bengal,15347,153
 Punjab region,61607,492
-Unknown,0,112
 Karnataka,22271,221
 Andhra Pradesh,35210,337
 Gujarat,12589,134
@@ -1643,8 +1532,6 @@ Chandigarh,2673,59
 Jammu and Kashmir,15738,234
 Assam,17745,150
 Tripura,16304,304
-Mizoram,0,177
-Himachal Pradesh,0,453
 Madhya Pradesh,11920,115
 Telangana,38866,364
 Tripura,5846,109
@@ -1665,7 +1552,6 @@ Karnataka,7357,73
 Jammu and Kashmir,2623,39
 Punjab region,10769,86
 Odisha,26381,268
-Manipur,0,228
 Andhra Pradesh,9194,88
 Puducherry,17268,97
 Tamil Nadu,37362,387
@@ -1678,7 +1564,6 @@ Karnataka,20558,204
 Andhra Pradesh,35001,335
 Telangana,14308,134
 Haryana,34175,370
-Unknown,0,418
 Kerala,4135,66
 Bihar,41334,384
 Madhya Pradesh,15341,148
@@ -1689,7 +1574,6 @@ Karnataka,17938,178
 Telangana,1708,16
 Bihar,40365,375
 Punjab region,10393,83
-Unknown,0,366
 Delhi,23181,216
 Odisha,41244,419
 Delhi,40245,375
@@ -1717,7 +1601,6 @@ Bihar,51667,480
 Andhra Pradesh,12851,123
 Andhra Pradesh,41061,393
 Punjab region,61607,492
-Unknown,0,142
 Telangana,18899,177
 Madhya Pradesh,36383,351
 Karnataka,7054,70
@@ -1738,7 +1621,6 @@ Jharkhand,13250,223
 Bihar,30139,280
 Uttarakhand,11479,151
 Gujarat,37485,399
-Unknown,0,266
 Odisha,15356,156
 Tamil Nadu,2414,25
 Maharashtra,18130,168
@@ -1774,7 +1656,6 @@ Bihar,44778,416
 Odisha,5709,58
 Delhi,46577,434
 Punjab region,2880,23
-Unknown,0,460
 Punjab region,53843,430
 Delhi,31123,290
 Bihar,11410,106
@@ -1796,7 +1677,6 @@ Maharashtra,50506,468
 Chandigarh,20436,451
 Punjab region,46831,374
 Assam,58321,493
-Manipur,0,13
 Tripura,9439,176
 Telangana,29149,273
 Maharashtra,19641,182
@@ -1821,7 +1701,6 @@ Uttarakhand,27976,368
 Odisha,16931,172
 Tamil Nadu,24232,251
 Andhra Pradesh,49211,471
-Unknown,0,375
 Punjab region,57349,458
 Delhi,46577,434
 Madhya Pradesh,34828,336
@@ -1840,7 +1719,6 @@ Bihar,3767,35
 Delhi,2576,24
 Karnataka,12899,128
 Haryana,34452,373
-Unknown,0,62
 Andhra Pradesh,35315,338
 Tamil Nadu,17088,177
 Telangana,48475,454
@@ -1862,7 +1740,6 @@ Telangana,21355,200
 Karnataka,16527,164
 Punjab region,14275,114
 Tamil Nadu,2124,22
-Unknown,0,27
 Karnataka,43434,431
 Odisha,26381,268
 Bihar,52744,490
@@ -1870,7 +1747,6 @@ Maharashtra,27627,256
 Punjab region,30678,245
 Bihar,32184,299
 Odisha,27168,276
-Unknown,0,290
 Delhi,23074,215
 West Bengal,22670,226
 Tamil Nadu,9461,98
@@ -1887,7 +1763,6 @@ Madhya Pradesh,47474,458
 Delhi,6117,57
 Telangana,33847,317
 Haryana,14594,158
-Unknown,0,334
 Maharashtra,540,5
 Madhya Pradesh,1348,13
 Tamil Nadu,44410,460
@@ -1895,7 +1770,6 @@ Karnataka,42527,422
 Andhra Pradesh,37091,355
 West Bengal,41127,410
 Bihar,23681,220
-Unknown,0,449
 Telangana,13133,123
 Punjab region,48709,389
 Odisha,3150,32
@@ -1919,7 +1793,6 @@ Tripura,12067,225
 Andhra Pradesh,43046,412
 Chandigarh,6616,146
 Telangana,36944,346
-Himachal Pradesh,0,192
 Delhi,322,3
 Karnataka,11589,115
 Tamil Nadu,13130,136
@@ -1928,7 +1801,6 @@ Bihar,51344,477
 Madhya Pradesh,39285,379
 West Bengal,25880,258
 Punjab region,10769,86
-Unknown,0,44
 Telangana,19006,178
 Punjab region,23791,190
 Odisha,3150,32
@@ -1944,7 +1816,6 @@ Tamil Nadu,8303,86
 Bihar,3983,37
 Karnataka,34364,341
 Assam,50750,429
-Manipur,0,351
 Puducherry,85983,483
 Karnataka,37690,374
 Chhattisgarh,36924,347
@@ -1957,7 +1828,6 @@ Jammu and Kashmir,21320,317
 Haryana,9144,99
 Telangana,9076,85
 Tamil Nadu,34273,355
-Unknown,0,275
 Andhra Pradesh,3866,37
 Maharashtra,53420,495
 Kerala,19361,309
@@ -1966,7 +1836,6 @@ Odisha,1083,11
 West Bengal,43234,431
 Gujarat,14186,151
 Punjab region,5510,44
-Unknown,0,212
 Andhra Pradesh,47539,455
 Madhya Pradesh,27779,268
 Karnataka,37388,371
@@ -1999,10 +1868,8 @@ Odisha,2264,23
 Maharashtra,44246,410
 Odisha,7973,81
 Punjab region,52967,423
-Unknown,0,62
 Madhya Pradesh,37108,358
 West Bengal,28990,289
-Unknown,0,117
 Madhya Pradesh,23944,231
 Tamil Nadu,2317,24
 Karnataka,3527,35
@@ -2020,7 +1887,6 @@ Chandigarh,6162,136
 Madhya Pradesh,311,3
 Jharkhand,297,5
 Jammu and Kashmir,33090,492
-Unknown,0,337
 Rajasthan,36865,414
 Punjab region,38692,309
 Chhattisgarh,4256,40
@@ -2028,10 +1894,7 @@ Puducherry,41478,233
 Punjab region,49836,398
 Andhra Pradesh,35106,336
 Assam,15142,128
-Manipur,0,248
 Tripura,14802,276
-Mizoram,0,50
-Himachal Pradesh,0,315
 Telangana,15375,144
 Maharashtra,648,6
 West Bengal,20162,201
@@ -2039,7 +1902,6 @@ Bihar,34983,325
 Kerala,9837,157
 Tamil Nadu,21915,227
 West Bengal,12539,125
-Unknown,0,80
 Maharashtra,6151,57
 Telangana,53280,499
 Madhya Pradesh,1555,15
@@ -2060,12 +1922,10 @@ Haryana,14224,154
 Bihar,5705,53
 Andhra Pradesh,33956,325
 Andhra Pradesh,36360,348
-Unknown,0,361
 Tamil Nadu,23363,242
 Maharashtra,48779,452
 Telangana,47087,441
 Haryana,44428,481
-Unknown,0,2
 Odisha,43804,445
 Maharashtra,7770,72
 Andhra Pradesh,18911,181
@@ -2096,7 +1956,6 @@ Karnataka,40108,398
 Rajasthan,37222,418
 Tamil Nadu,43637,452
 Karnataka,7760,77
-Unknown,0,178
 Haryana,18381,199
 Tamil Nadu,8882,92
 West Bengal,37416,373
@@ -2111,7 +1970,6 @@ Odisha,2756,28
 Odisha,14568,148
 Bihar,29063,270
 Punjab region,1628,13
-Unknown,0,141
 West Bengal,23071,230
 Andhra Pradesh,20687,198
 Delhi,46469,433
@@ -2125,7 +1983,6 @@ Uttar Pradesh,7047,114
 Odisha,6005,61
 Bihar,27448,255
 Telangana,46660,437
-Unknown,0,240
 Tripura,2682,50
 West Bengal,10633,106
 West Bengal,24576,245
@@ -2153,7 +2010,6 @@ Odisha,1181,12
 Tamil Nadu,33790,350
 Tamil Nadu,3572,37
 Bihar,13778,128
-Manipur,0,404
 Tamil Nadu,26742,277
 Kerala,2381,38
 Chhattisgarh,52672,495
@@ -2162,10 +2018,7 @@ Uttarakhand,31093,409
 Punjab region,4132,33
 Puducherry,20650,116
 Assam,33479,283
-Mizoram,0,30
-Himachal Pradesh,0,206
 Andhra Pradesh,3134,30
-Unknown,0,453
 Haryana,42396,459
 Telangana,50290,471
 Tamil Nadu,13709,142
@@ -2184,14 +2037,12 @@ Andhra Pradesh,50151,480
 West Bengal,17755,177
 Maharashtra,13490,125
 Tamil Nadu,40548,420
-Unknown,0,127
 Punjab region,10393,83
 Bihar,24650,229
 Odisha,21656,220
 Karnataka,16124,160
 Punjab region,14275,114
 Delhi,35308,329
-Unknown,0,23
 Bihar,38535,358
 Maharashtra,29462,273
 Maharashtra,53312,494
@@ -2210,7 +2061,6 @@ Odisha,12009,122
 Bihar,29063,270
 Delhi,21571,201
 Odisha,5808,59
-Unknown,0,497
 Delhi,10410,97
 Punjab region,6010,48
 Telangana,35556,333
@@ -2218,7 +2068,6 @@ Tamil Nadu,1545,16
 Andhra Pradesh,15672,150
 Karnataka,44845,445
 West Bengal,33503,334
-Unknown,0,288
 Andhra Pradesh,41270,395
 Odisha,11123,113
 Haryana,7020,76
@@ -2234,7 +2083,6 @@ Andhra Pradesh,418,4
 Tamil Nadu,39775,412
 Madhya Pradesh,44882,433
 West Bengal,27284,272
-Unknown,0,233
 Maharashtra,45110,418
 Karnataka,40512,402
 Maharashtra,53527,496
@@ -2245,7 +2093,6 @@ West Bengal,20764,207
 Karnataka,29930,297
 Punjab region,5009,40
 Andhra Pradesh,18389,176
-Unknown,0,112
 Madhya Pradesh,7152,69
 Bihar,24434,227
 Maharashtra,46297,429
@@ -2265,17 +2112,14 @@ Odisha,10040,102
 Andhra Pradesh,51405,492
 Maharashtra,21799,202
 Tamil Nadu,34562,358
-Unknown,0,173
 Karnataka,10380,103
 Telangana,29470,276
 Haryana,16995,184
-Unknown,0,59
 Tamil Nadu,15350,159
 Madhya Pradesh,24048,232
 Maharashtra,45757,424
 Andhra Pradesh,10448,100
 Punjab region,48208,385
-Unknown,0,410
 Telangana,44097,413
 Telangana,7154,67
 Maharashtra,34210,317
@@ -2284,7 +2128,6 @@ Delhi,48294,450
 West Bengal,45942,458
 Karnataka,16829,167
 Telangana,26907,252
-Unknown,0,182
 Madhya Pradesh,15548,150
 Andhra Pradesh,3448,33
 Telangana,23597,221
@@ -2293,7 +2136,6 @@ Odisha,14175,144
 Haryana,21059,228
 Karnataka,39302,390
 Karnataka,7457,74
-Unknown,0,69
 Punjab region,62358,498
 West Bengal,36011,359
 Delhi,15776,147
@@ -2339,11 +2181,9 @@ Tamil Nadu,5599,58
 Karnataka,33054,328
 Telangana,1281,12
 Haryana,17088,185
-Unknown,0,53
 Telangana,13347,125
 Tamil Nadu,24232,251
 Andhra Pradesh,18284,175
-Unknown,0,159
 Karnataka,50287,499
 Madhya Pradesh,47681,460
 Odisha,48233,490
@@ -2365,7 +2205,6 @@ Bihar,22282,207
 Maharashtra,14569,135
 Punjab region,7889,63
 Madhya Pradesh,25292,244
-Unknown,0,225
 Maharashtra,44570,413
 Telangana,17618,165
 Andhra Pradesh,9299,89
@@ -2394,7 +2233,6 @@ Punjab region,25294,202
 Karnataka,49682,493
 Madhya Pradesh,40840,394
 Maharashtra,3777,35
-Unknown,0,354
 Andhra Pradesh,48166,461
 Odisha,25692,261
 Andhra Pradesh,22046,211
@@ -2424,14 +2262,12 @@ West Bengal,15749,157
 Bihar,27879,259
 Punjab region,17155,137
 Maharashtra,20289,188
-Unknown,0,83
 Madhya Pradesh,16481,159
 Andhra Pradesh,24240,232
 Maharashtra,19102,177
 Andhra Pradesh,17344,166
 West Bengal,21767,217
 Bihar,38751,360
-Unknown,0,167
 Haryana,21798,236
 Telangana,34595,324
 Karnataka,14915,148
@@ -2457,7 +2293,6 @@ Andhra Pradesh,42106,403
 Tamil Nadu,24811,257
 Madhya Pradesh,15134,146
 Odisha,19687,200
-Unknown,0,380
 West Bengal,15648,156
 Punjab region,34435,275
 Bihar,31969,297
@@ -2479,7 +2314,6 @@ Delhi,49796,464
 Tamil Nadu,483,5
 Odisha,45477,462
 Telangana,11959,112
-Unknown,0,481
 Punjab region,14776,118
 Karnataka,38798,385
 Tamil Nadu,43541,451
@@ -2496,11 +2330,9 @@ Bihar,27125,252
 Punjab region,49210,393
 Delhi,23181,216
 Telangana,23170,217
-Unknown,0,468
 Karnataka,7760,77
 Maharashtra,49534,459
 Tamil Nadu,18826,195
-Unknown,0,75
 Andhra Pradesh,40643,389
 Madhya Pradesh,27054,261
 Madhya Pradesh,2488,24
@@ -2533,7 +2365,6 @@ Delhi,7083,66
 Andhra Pradesh,51509,493
 Karnataka,46961,466
 Haryana,40733,441
-Unknown,0,199
 Punjab region,38567,308
 Karnataka,7155,71
 West Bengal,37616,375
@@ -2564,13 +2395,11 @@ Maharashtra,28598,265
 Maharashtra,40577,376
 Delhi,47220,440
 Telangana,11425,107
-Unknown,0,255
 Karnataka,27915,277
 Tamil Nadu,39003,404
 Bihar,42949,399
 Telangana,34381,322
 Andhra Pradesh,3761,36
-Unknown,0,5
 Bihar,40150,373
 Odisha,5709,58
 Tamil Nadu,13130,136
@@ -2586,7 +2415,6 @@ Punjab region,43450,347
 Madhya Pradesh,39803,384
 Andhra Pradesh,17448,167
 Bihar,26049,242
-Unknown,0,96
 Madhya Pradesh,41773,403
 Telangana,18685,175
 Tamil Nadu,17185,178
@@ -2620,7 +2448,6 @@ Karnataka,17535,174
 Andhra Pradesh,14836,142
 Maharashtra,49858,462
 West Bengal,20062,200
-Unknown,0,26
 Punjab region,17781,142
 Bihar,12917,120
 Telangana,28936,271
@@ -2631,8 +2458,6 @@ Madhya Pradesh,19176,185
 Maharashtra,44354,411
 Bihar,20236,188
 Andhra Pradesh,43987,421
-Unknown,0,74
-Unknown,0,76
 Punjab region,58226,465
 Telangana,50611,474
 Delhi,26723,249
@@ -2640,7 +2465,6 @@ Andhra Pradesh,45345,434
 Karnataka,47364,470
 Maharashtra,33131,307
 Madhya Pradesh,26536,256
-Unknown,0,39
 Tamil Nadu,26260,272
 Telangana,51038,478
 West Bengal,5015,50
@@ -2660,7 +2484,6 @@ Delhi,29942,279
 Andhra Pradesh,13165,126
 West Bengal,36312,362
 Odisha,6694,68
-Unknown,0,215
 Delhi,16313,152
 Tamil Nadu,27515,285
 Bihar,43594,405
@@ -2683,11 +2506,9 @@ Maharashtra,16404,152
 Tamil Nadu,29542,306
 Andhra Pradesh,35942,344
 West Bengal,4213,42
-Unknown,0,130
 Telangana,4591,43
 Andhra Pradesh,104,1
 Odisha,44099,448
-Unknown,0,186
 Telangana,39720,372
 Andhra Pradesh,36673,351
 Haryana,25862,280
@@ -2711,12 +2532,10 @@ Maharashtra,3993,37
 Karnataka,37589,373
 Andhra Pradesh,11180,107
 Tamil Nadu,34466,357
-Unknown,0,50
 Maharashtra,41872,388
 Andhra Pradesh,45763,438
 Odisha,13978,142
 Karnataka,9271,92
-Unknown,0,139
 Odisha,8170,83
 Delhi,16849,157
 Punjab region,24417,195
@@ -2753,13 +2572,9 @@ Assam,57612,487
 Madhya Pradesh,43017,415
 Puducherry,69961,393
 Tripura,5148,96
-Manipur,0,289
-Mizoram,0,485
-Himachal Pradesh,0,402
 Tamil Nadu,35141,364
 Telangana,19860,186
 Tamil Nadu,47595,493
-Unknown,0,52
 Delhi,6225,58
 Andhra Pradesh,49524,474
 Andhra Pradesh,11597,111
@@ -2775,7 +2590,6 @@ Bihar,17222,160
 Punjab region,43075,344
 Telangana,35983,337
 Andhra Pradesh,3970,38
-Unknown,0,132
 Tamil Nadu,20950,217
 Karnataka,28116,279
 West Bengal,3511,35
@@ -2796,9 +2610,7 @@ Punjab region,61106,488
 Bihar,53282,495
 Telangana,37157,348
 Bihar,7858,73
-Unknown,0,491
 Telangana,41535,389
-Unknown,0,252
 Delhi,43464,405
 Bihar,24542,228
 Odisha,22837,232
@@ -2824,9 +2636,6 @@ Maharashtra,11655,108
 Tamil Nadu,36107,374
 Karnataka,26806,266
 Jammu and Kashmir,16881,251
-Mizoram,0,127
-Himachal Pradesh,0,81
-Manipur,0,345
 Tripura,9707,181
 Assam,51342,434
 Punjab region,50337,402
@@ -2835,18 +2644,15 @@ Puducherry,53406,300
 Chhattisgarh,40435,380
 Bihar,20559,191
 Andhra Pradesh,7523,72
-Unknown,0,69
 Haryana,28171,305
 Andhra Pradesh,7418,71
 Jharkhand,28044,472
 Delhi,15561,145
-Unknown,0,224
 Haryana,647,7
 Telangana,39079,366
 Tamil Nadu,12551,130
 Telangana,30858,289
 Delhi,6225,58
-Unknown,0,350
 Andhra Pradesh,34479,330
 Tamil Nadu,30411,315
 West Bengal,37315,372
@@ -2883,14 +2689,12 @@ Madhya Pradesh,47992,463
 West Bengal,42230,421
 Bihar,10549,98
 Punjab region,20035,160
-Unknown,0,110
 Madhya Pradesh,6530,63
 Maharashtra,30541,283
 Odisha,295,3
 Maharashtra,1187,11
 Maharashtra,40685,377
 Karnataka,35775,355
-Unknown,0,282
 Punjab region,18282,146
 Bihar,5490,51
 Maharashtra,32268,299
@@ -2911,7 +2715,6 @@ Tamil Nadu,12840,133
 Haryana,3233,35
 Andhra Pradesh,47644,456
 Telangana,11211,105
-Unknown,0,245
 Telangana,21034,197
 Andhra Pradesh,33016,316
 West Bengal,32701,326
@@ -2929,8 +2732,6 @@ Bihar,43379,403
 Delhi,46040,429
 Madhya Pradesh,15341,148
 Tamil Nadu,28094,291
-Unknown,0,116
-Unknown,0,243
 Madhya Pradesh,29853,288
 Rajasthan,30899,347
 Tripura,19360,361
@@ -2949,8 +2750,6 @@ Puducherry,41656,234
 Punjab region,58476,467
 Chandigarh,9108,201
 Assam,13841,117
-Manipur,0,403
-Mizoram,0,23
 Andhra Pradesh,37718,361
 Uttar Pradesh,21017,340
 Bihar,18407,171
@@ -2959,10 +2758,8 @@ Telangana,47087,441
 Andhra Pradesh,20478,196
 Tamil Nadu,44313,459
 Telangana,28615,268
-Unknown,0,114
 Odisha,45674,464
 Maharashtra,21368,198
-Unknown,0,113
 Punjab region,28675,229
 Madhya Pradesh,49754,480
 Gujarat,29781,317
@@ -2975,7 +2772,6 @@ Bihar,32507,302
 Karnataka,504,5
 Maharashtra,648,6
 Kerala,15226,243
-Himachal Pradesh,0,252
 Punjab region,26671,213
 Haryana,15794,171
 Karnataka,12295,122
@@ -2993,7 +2789,6 @@ Punjab region,3256,26
 Tamil Nadu,41127,426
 Telangana,45592,427
 Haryana,31035,336
-Unknown,0,292
 Maharashtra,44139,409
 Karnataka,38496,382
 Andhra Pradesh,40434,387
@@ -3001,7 +2796,6 @@ Tamil Nadu,41224,427
 Telangana,25412,238
 Delhi,38635,360
 Odisha,43607,443
-Unknown,0,237
 Madhya Pradesh,49754,480
 Odisha,8072,82
 Andhra Pradesh,41375,396
@@ -3020,7 +2814,6 @@ West Bengal,13642,136
 Odisha,12600,128
 Andhra Pradesh,2717,26
 Maharashtra,21476,199
-Unknown,0,423
 Karnataka,19550,194
 Tamil Nadu,32921,341
 Andhra Pradesh,39285,376
@@ -3035,14 +2828,12 @@ Madhya Pradesh,46126,445
 Telangana,18258,171
 Andhra Pradesh,49942,478
 Maharashtra,15756,146
-Unknown,0,215
 Punjab region,53593,428
 West Bengal,13642,136
 Rajasthan,356,4
 Gujarat,16910,180
 Telangana,16550,155
 Madhya Pradesh,6323,61
-Unknown,0,217
 Punjab region,50462,403
 Tamil Nadu,37652,390
 Kerala,18860,301
@@ -3057,13 +2848,11 @@ Tamil Nadu,27225,282
 Uttar Pradesh,25591,414
 Maharashtra,47808,443
 Chhattisgarh,8832,83
-Manipur,0,103
 Uttarakhand,20374,268
 Punjab region,58852,470
 West Bengal,46644,465
 Madhya Pradesh,37212,359
 Tamil Nadu,26839,278
-Unknown,0,261
 Andhra Pradesh,15777,151
 Telangana,26907,252
 Delhi,2254,21
@@ -3071,7 +2860,6 @@ Bihar,9257,86
 Punjab region,54094,432
 Odisha,29334,298
 Odisha,39768,404
-Himachal Pradesh,0,148
 Haryana,2309,25
 Tripura,10404,194
 Assam,3076,26
@@ -3106,7 +2894,6 @@ Tamil Nadu,20370,211
 Telangana,31498,295
 Telangana,12279,115
 Madhya Pradesh,47474,458
-Unknown,0,106
 Odisha,25199,256
 Maharashtra,5396,50
 Karnataka,302,3
@@ -3122,7 +2909,6 @@ Telangana,8969,84
 Delhi,3434,32
 Tamil Nadu,17764,184
 Andhra Pradesh,1881,18
-Unknown,0,458
 Karnataka,49077,487
 Tamil Nadu,30797,319
 Andhra Pradesh,8359,80
@@ -3145,7 +2931,6 @@ Odisha,5709,58
 West Bengal,4614,46
 Maharashtra,4425,41
 Delhi,26079,243
-Unknown,0,495
 Madhya Pradesh,2902,28
 West Bengal,15749,157
 Tamil Nadu,46340,480
@@ -3163,7 +2948,6 @@ Punjab region,37815,302
 Bihar,36060,335
 Andhra Pradesh,3657,35
 Tamil Nadu,24425,253
-Unknown,0,14
 West Bengal,46343,462
 Telangana,11104,104
 Karnataka,5140,51
@@ -3177,7 +2961,6 @@ Tamil Nadu,97,1
 Kerala,14098,225
 Madhya Pradesh,17621,170
 Uttar Pradesh,30537,494
-Unknown,0,272
 Maharashtra,32375,300
 Andhra Pradesh,21732,208
 Delhi,41855,390
@@ -3188,7 +2971,6 @@ Punjab region,16654,133
 Odisha,295,3
 Bihar,45101,419
 Delhi,47328,441
-Unknown,0,73
 Punjab region,39193,313
 Telangana,26907,252
 Maharashtra,24066,223
@@ -3228,7 +3010,6 @@ Telangana,14842,139
 Madhya Pradesh,15341,148
 Maharashtra,52664,488
 Rajasthan,17008,191
-Manipur,0,64
 Karnataka,19853,197
 Telangana,48475,454
 Tamil Nadu,4924,51
@@ -3251,7 +3032,6 @@ West Bengal,28388,283
 Punjab region,37565,300
 Punjab region,7012,56
 Odisha,48725,495
-Unknown,0,310
 Tamil Nadu,9751,101
 Andhra Pradesh,3657,35
 Tamil Nadu,14481,150
@@ -3265,7 +3045,6 @@ Madhya Pradesh,44882,433
 Andhra Pradesh,50673,485
 Karnataka,44442,441
 Maharashtra,19209,178
-Unknown,0,246
 West Bengal,34707,346
 Telangana,30964,290
 Madhya Pradesh,7878,76
@@ -3282,7 +3061,6 @@ Tamil Nadu,34176,354
 Andhra Pradesh,34792,333
 Karnataka,22070,219
 West Bengal,16250,162
-Unknown,0,293
 Delhi,13093,122
 Punjab region,1628,13
 Bihar,753,7
@@ -3290,7 +3068,6 @@ Odisha,41146,418
 Punjab region,14776,118
 Andhra Pradesh,20896,200
 Delhi,966,9
-Unknown,0,73
 Karnataka,3124,31
 Andhra Pradesh,9821,94
 Maharashtra,22123,205
@@ -3304,8 +3081,6 @@ Tamil Nadu,35045,363
 Jammu and Kashmir,18092,269
 Delhi,48508,452
 Karnataka,605,6
-Unknown,0,166
-Unknown,0,402
 Madhya Pradesh,21456,207
 Andhra Pradesh,15254,146
 Tamil Nadu,42961,445
@@ -3333,10 +3108,7 @@ Delhi,42176,393
 Maharashtra,32483,301
 Rajasthan,42475,477
 Telangana,3096,29
-Himachal Pradesh,0,306
-Mizoram,0,344
 Chandigarh,21342,471
-Manipur,0,377
 Tripura,10458,195
 Puducherry,36494,205
 Assam,10410,88
@@ -3350,15 +3122,12 @@ Odisha,30515,310
 Punjab region,12522,100
 Uttar Pradesh,20523,332
 Jharkhand,2080,35
-Unknown,0,58
 Chhattisgarh,5320,50
 Bihar,38320,356
 Gujarat,32224,343
 Tamil Nadu,39969,414
-Manipur,0,373
 Karnataka,38798,385
 Bihar,12594,117
-Himachal Pradesh,0,369
 Tamil Nadu,25487,264
 Telangana,25946,243
 Maharashtra,40038,371
@@ -3370,7 +3139,6 @@ Punjab region,10017,80
 Bihar,19698,183
 Odisha,5020,51
 Uttar Pradesh,8036,130
-Mizoram,0,470
 Maharashtra,11763,109
 Punjab region,43325,346
 Madhya Pradesh,32029,309
@@ -3393,7 +3161,6 @@ Telangana,16763,157
 West Bengal,34206,341
 Maharashtra,7554,70
 Karnataka,10581,105
-Unknown,0,410
 Andhra Pradesh,11597,111
 Tripura,5470,102
 Odisha,10237,104
@@ -3431,7 +3198,6 @@ West Bengal,100,1
 Andhra Pradesh,49838,477
 Madhya Pradesh,38041,367
 Andhra Pradesh,39285,376
-Unknown,0,403
 Maharashtra,46405,430
 Karnataka,47263,469
 Tamil Nadu,23460,243
@@ -3445,14 +3211,12 @@ Delhi,24898,232
 Odisha,37012,376
 Bihar,38643,359
 Bihar,34230,318
-Unknown,0,484
 Tamil Nadu,24425,253
 Andhra Pradesh,31971,306
 Maharashtra,38203,354
 Telangana,5766,54
 Tamil Nadu,44216,458
 Punjab region,3130,25
-Unknown,0,334
 Karnataka,9372,93
 Delhi,45074,420
 Tamil Nadu,386,4
@@ -3462,7 +3226,6 @@ Telangana,23170,217
 Punjab region,20536,164
 Andhra Pradesh,24762,237
 Bihar,31323,291
-Unknown,0,373
 Karnataka,38496,382
 Madhya Pradesh,32651,315
 Tamil Nadu,2124,22
@@ -3471,7 +3234,6 @@ Telangana,42389,397
 Jammu and Kashmir,32082,477
 Delhi,44323,413
 Punjab region,23666,189
-Unknown,0,407
 Chandigarh,10014,221
 Bihar,24757,230
 Odisha,13879,141
@@ -3483,7 +3245,6 @@ Telangana,13133,123
 Odisha,16537,168
 Tamil Nadu,9654,100
 Andhra Pradesh,7627,73
-Unknown,0,78
 West Bengal,41829,417
 Madhya Pradesh,13060,126
 Andhra Pradesh,51718,495
@@ -3498,8 +3259,6 @@ Bihar,35414,329
 Telangana,16977,159
 Tripura,8098,151
 Delhi,41103,383
-Himachal Pradesh,0,399
-Manipur,0,479
 Telangana,534,5
 Uttarakhand,28280,372
 Odisha,6989,71
@@ -3510,7 +3269,6 @@ Delhi,41640,388
 West Bengal,8125,81
 Maharashtra,6151,57
 Karnataka,50085,497
-Unknown,0,304
 Andhra Pradesh,50465,483
 Madhya Pradesh,30682,296
 Chhattisgarh,6278,59
@@ -3554,7 +3312,6 @@ Karnataka,45349,450
 Maharashtra,9065,84
 Tamil Nadu,44506,461
 Punjab region,30428,243
-Unknown,0,378
 Odisha,5020,51
 Bihar,41657,387
 Delhi,9981,93
@@ -3577,9 +3334,6 @@ Tamil Nadu,24232,251
 Bihar,33691,313
 Odisha,8465,86
 Kerala,28509,455
-Himachal Pradesh,0,101
-Mizoram,0,49
-Manipur,0,40
 Tripura,6328,118
 Chandigarh,4169,92
 Puducherry,43437,244
@@ -3593,7 +3347,6 @@ Rajasthan,37667,423
 Haryana,34083,369
 Andhra Pradesh,25911,248
 West Bengal,11235,112
-Unknown,0,435
 Delhi,15025,140
 Andhra Pradesh,24135,231
 Bihar,37136,345
@@ -3619,7 +3372,6 @@ Punjab region,20661,165
 Punjab region,60730,485
 Andhra Pradesh,4388,42
 Madhya Pradesh,34517,333
-Unknown,0,272
 Andhra Pradesh,30822,295
 Delhi,40781,380
 Punjab region,45704,365
@@ -3638,7 +3390,6 @@ Maharashtra,216,2
 Andhra Pradesh,42733,409
 Punjab region,14901,119
 Karnataka,26101,259
-Unknown,0,431
 Maharashtra,216,2
 Delhi,47542,443
 Bihar,48115,447
@@ -3681,7 +3432,6 @@ Jharkhand,2733,46
 Chhattisgarh,45011,423
 West Bengal,38519,384
 Jammu and Kashmir,25289,376
-Unknown,0,143
 Uttar Pradesh,30228,489
 Gujarat,17380,185
 Telangana,13026,122
@@ -3702,13 +3452,11 @@ Punjab region,41572,332
 Andhra Pradesh,21941,210
 West Bengal,45541,454
 Telangana,18792,176
-Unknown,0,200
 Bihar,47900,445
 Odisha,11418,116
 Madhya Pradesh,14304,138
 Tamil Nadu,19888,206
 Maharashtra,18130,168
-Unknown,0,144
 Madhya Pradesh,26536,256
 Karnataka,34667,344
 Telangana,2456,23
@@ -3728,8 +3476,6 @@ Chandigarh,8020,177
 Madhya Pradesh,46023,444
 Puducherry,10503,59
 Tripura,3325,62
-Himachal Pradesh,0,343
-Mizoram,0,185
 Telangana,48689,456
 Andhra Pradesh,41688,399
 Odisha,24018,244
@@ -3752,14 +3498,11 @@ Punjab region,626,5
 West Bengal,29290,292
 Delhi,38098,355
 Bihar,40903,380
-Manipur,0,177
 Maharashtra,15216,141
 Tamil Nadu,2220,23
 Punjab region,30803,246
 Odisha,12009,122
 Tamil Nadu,45278,469
-Unknown,0,212
-Unknown,0,314
 Haryana,25031,271
 Telangana,2883,27
 Andhra Pradesh,49942,478
@@ -3769,7 +3512,6 @@ Maharashtra,22771,211
 Odisha,35141,357
 Bihar,47577,442
 Telangana,35022,328
-Unknown,0,289
 Telangana,11745,110
 Madhya Pradesh,32755,316
 Punjab region,55596,444
@@ -3777,7 +3519,6 @@ Delhi,17815,166
 West Bengal,26983,269
 Andhra Pradesh,45449,435
 Karnataka,27512,273
-Unknown,0,283
 Haryana,28264,306
 Telangana,31925,299
 Andhra Pradesh,37509,359
@@ -3790,7 +3531,6 @@ Maharashtra,40361,374
 Tamil Nadu,1738,18
 Andhra Pradesh,21837,209
 Bihar,6674,62
-Unknown,0,214
 Odisha,3445,35
 Bihar,24650,229
 Delhi,49045,457
@@ -3808,7 +3548,6 @@ Telangana,16230,152
 Maharashtra,20936,194
 Tamil Nadu,37169,385
 Andhra Pradesh,27583,264
-Unknown,0,130
 Delhi,32303,301
 Bihar,5059,47
 Tamil Nadu,35914,372
@@ -3816,7 +3555,6 @@ Punjab region,35562,284
 Maharashtra,15864,147
 Telangana,28188,264
 West Bengal,9128,91
-Unknown,0,214
 Karnataka,36077,358
 Madhya Pradesh,33895,327
 Andhra Pradesh,31553,302
@@ -3842,14 +3580,12 @@ West Bengal,6019,60
 Odisha,19490,198
 Bihar,41549,386
 Karnataka,24388,242
-Unknown,0,466
 Madhya Pradesh,1348,13
 Andhra Pradesh,33434,320
 Tamil Nadu,28673,297
 Delhi,24898,232
 Odisha,37012,376
 Maharashtra,28814,267
-Unknown,0,143
 Telangana,24771,232
 Haryana,10991,119
 Andhra Pradesh,38345,367
@@ -3860,7 +3596,6 @@ Andhra Pradesh,35942,344
 Maharashtra,42196,391
 Andhra Pradesh,14523,139
 Chandigarh,9742,215
-Unknown,0,175
 Madhya Pradesh,12024,116
 Rajasthan,23152,260
 Bihar,37567,349
@@ -3868,9 +3603,6 @@ Uttarakhand,2357,31
 Jammu and Kashmir,21051,313
 Punjab region,54595,436
 Tripura,2682,50
-Manipur,0,145
-Himachal Pradesh,0,427
-Mizoram,0,398
 Telangana,48368,453
 Tamil Nadu,22881,237
 Haryana,16441,178
@@ -3882,7 +3614,6 @@ Andhra Pradesh,25493,244
 Tamil Nadu,14192,147
 Telangana,38118,357
 Haryana,4249,46
-Unknown,0,281
 Karnataka,16124,160
 Madhya Pradesh,50791,490
 Odisha,27463,279
@@ -3920,7 +3651,6 @@ West Bengal,11937,119
 Telangana,21568,202
 Maharashtra,1727,16
 Madhya Pradesh,37627,363
-Unknown,0,40
 Delhi,25220,235
 Bihar,48008,446
 Maharashtra,17591,163
@@ -3930,7 +3660,6 @@ Karnataka,48674,483
 Andhra Pradesh,19747,189
 Tamil Nadu,24039,249
 Punjab region,43075,344
-Unknown,0,318
 Madhya Pradesh,10262,99
 Odisha,8662,88
 Telangana,10464,98
@@ -3938,7 +3667,6 @@ Bihar,16792,156
 Punjab region,41572,332
 Tamil Nadu,23074,239
 West Bengal,2407,24
-Unknown,0,420
 Maharashtra,50506,468
 Karnataka,44643,443
 Madhya Pradesh,21767,210
@@ -3950,11 +3678,9 @@ Karnataka,39302,390
 Tamil Nadu,2800,29
 Andhra Pradesh,23508,225
 Telangana,41535,389
-Unknown,0,212
 Karnataka,38698,384
 Andhra Pradesh,14314,137
 Telangana,49650,465
-Unknown,0,325
 Haryana,36761,398
 Telangana,41535,389
 Andhra Pradesh,3761,36
@@ -3973,10 +3699,6 @@ West Bengal,49854,497
 Odisha,39669,403
 Assam,45072,381
 Tripura,17162,320
-Manipur,0,313
-Himachal Pradesh,0,90
-Mizoram,0,148
-Unknown,0,403
 Telangana,29042,272
 Tamil Nadu,11971,124
 Punjab region,47207,377
@@ -3997,7 +3719,6 @@ West Bengal,50055,499
 Madhya Pradesh,37730,364
 Gujarat,44530,474
 Jharkhand,26262,442
-Unknown,0,415
 Odisha,47249,480
 Kerala,18985,303
 Chhattisgarh,31284,294
@@ -4025,9 +3746,7 @@ Telangana,17618,165
 Delhi,24040,224
 Punjab region,13649,109
 Bihar,34122,317
-Unknown,0,419
 Odisha,1673,17
-Unknown,0,242
 Punjab region,4007,32
 Andhra Pradesh,1045,10
 Chandigarh,21433,473
@@ -4037,21 +3756,16 @@ Jammu and Kashmir,15267,227
 Kerala,22995,367
 Bihar,30893,287
 Telangana,33527,314
-Manipur,0,422
 Karnataka,46760,464
-Mizoram,0,224
-Himachal Pradesh,0,106
 Telangana,10571,99
 Bihar,27018,251
 Maharashtra,47376,439
 Andhra Pradesh,25493,244
 Tamil Nadu,45568,472
 Delhi,14381,134
-Unknown,0,197
 West Bengal,4715,47
 Madhya Pradesh,45090,435
 Telangana,17618,165
-Unknown,0,12
 Delhi,48294,450
 West Bengal,28087,280
 Madhya Pradesh,51102,493
@@ -4074,7 +3788,6 @@ Maharashtra,11223,104
 Bihar,9688,90
 Madhya Pradesh,30060,290
 Karnataka,34767,345
-Unknown,0,18
 Haryana,23923,259
 Telangana,7688,72
 Andhra Pradesh,9194,88
@@ -4089,7 +3802,6 @@ Assam,39985,338
 Telangana,854,8
 Punjab region,61106,488
 Odisha,17521,178
-Unknown,0,483
 Maharashtra,52772,489
 Delhi,32732,305
 Karnataka,45853,455
@@ -4097,7 +3809,6 @@ Tamil Nadu,16412,170
 Andhra Pradesh,39494,378
 Telangana,28509,267
 Haryana,23738,257
-Unknown,0,344
 West Bengal,21366,213
 Tamil Nadu,15736,163
 Maharashtra,51693,479
@@ -4161,11 +3872,9 @@ Karnataka,49884,495
 Maharashtra,1187,11
 Uttar Pradesh,6182,100
 Telangana,14735,138
-Unknown,0,263
 Tamil Nadu,35817,371
 Andhra Pradesh,38763,371
 Telangana,19967,187
-Manipur,0,297
 Andhra Pradesh,31135,298
 Telangana,41642,390
 Karnataka,15015,149
@@ -4183,7 +3892,6 @@ Delhi,22000,205
 Maharashtra,33023,306
 Haryana,13208,143
 Puducherry,63197,355
-Unknown,0,5
 Madhya Pradesh,4975,48
 Rajasthan,41941,471
 West Bengal,30895,308
@@ -4197,7 +3905,6 @@ Chhattisgarh,26177,246
 Punjab region,36188,289
 Chandigarh,12597,278
 Assam,46373,392
-Himachal Pradesh,0,82
 Odisha,32090,326
 Telangana,41535,389
 Delhi,42606,397
@@ -4205,16 +3912,12 @@ West Bengal,10332,103
 West Bengal,40625,405
 Bihar,12917,120
 Punjab region,54469,435
-Unknown,0,364
-Mizoram,0,436
 Odisha,4036,41
 Odisha,44985,457
 Punjab region,42323,338
 Andhra Pradesh,26852,257
-Unknown,0,303
 Tamil Nadu,28673,297
 Telangana,20821,195
-Unknown,0,442
 Bihar,1184,11
 Madhya Pradesh,8914,86
 Karnataka,28217,280
@@ -4229,7 +3932,6 @@ Tamil Nadu,17764,184
 Andhra Pradesh,12120,116
 Karnataka,18543,184
 Maharashtra,23526,218
-Unknown,0,155
 Haryana,92,1
 Telangana,12172,114
 Andhra Pradesh,18284,175
@@ -4269,7 +3971,6 @@ Tamil Nadu,31762,329
 Bihar,45317,421
 Chhattisgarh,43308,407
 Madhya Pradesh,41358,399
-Unknown,0,92
 Haryana,19120,207
 Andhra Pradesh,18598,178
 Kerala,16166,258
@@ -4280,10 +3981,6 @@ Telangana,34168,320
 Andhra Pradesh,40748,390
 Karnataka,14310,142
 Maharashtra,22987,213
-Manipur,0,421
-Himachal Pradesh,0,299
-Unknown,0,332
-Mizoram,0,9
 Chandigarh,17264,381
 Assam,44244,374
 Punjab region,34810,278
@@ -4314,7 +4011,6 @@ Karnataka,31744,315
 Madhya Pradesh,18347,177
 Telangana,45913,430
 Bihar,19160,178
-Unknown,0,449
 Punjab region,19283,154
 Maharashtra,45326,420
 Delhi,42606,397
@@ -4322,7 +4018,6 @@ Bihar,17868,166
 Telangana,15589,146
 Andhra Pradesh,43255,414
 Karnataka,37791,375
-Unknown,0,56
 West Bengal,33203,331
 Madhya Pradesh,36175,349
 Tamil Nadu,46823,485
@@ -4339,9 +4034,7 @@ Telangana,29470,276
 Andhra Pradesh,44196,423
 Maharashtra,39930,370
 Karnataka,44139,438
-Unknown,0,75
 Jharkhand,16280,274
-Unknown,0,400
 Karnataka,1008,10
 Maharashtra,10576,98
 Telangana,18899,177
@@ -4360,7 +4053,6 @@ Madhya Pradesh,20731,200
 Telangana,15375,144
 Andhra Pradesh,12120,116
 West Bengal,19962,199
-Unknown,0,88
 Andhra Pradesh,5642,54
 Telangana,43243,405
 Tamil Nadu,8496,88
@@ -4374,7 +4066,6 @@ Tamil Nadu,21626,224
 Tamil Nadu,44313,459
 Tamil Nadu,2800,29
 Andhra Pradesh,34479,330
-Unknown,0,25
 Haryana,27155,294
 Telangana,22529,211
 Maharashtra,45110,418
@@ -4392,7 +4083,6 @@ Telangana,3417,32
 West Bengal,33604,335
 Punjab region,10268,82
 Bihar,45209,420
-Unknown,0,161
 Odisha,5512,56
 Karnataka,5643,56
 Delhi,10839,101
@@ -4445,7 +4135,6 @@ Andhra Pradesh,7209,69
 Rajasthan,24488,275
 Gujarat,10992,117
 Uttar Pradesh,7974,129
-Unknown,0,84
 Haryana,9052,98
 Telangana,8649,81
 Andhra Pradesh,30822,295
@@ -4453,9 +4142,6 @@ Maharashtra,36153,335
 Kerala,5577,89
 Tamil Nadu,2124,22
 Jammu and Kashmir,14998,223
-Mizoram,0,329
-Manipur,0,361
-Himachal Pradesh,0,25
 Tripura,1019,19
 Chandigarh,10376,229
 Puducherry,72988,410
@@ -4464,7 +4150,6 @@ Assam,11357,96
 Chhattisgarh,51076,480
 Bihar,11195,104
 Telangana,5659,53
-Unknown,0,174
 West Bengal,31798,317
 Punjab region,13023,104
 Tamil Nadu,11006,114
@@ -4475,14 +4160,12 @@ Andhra Pradesh,26852,257
 Bihar,5274,49
 Karnataka,43535,432
 Punjab region,31555,252
-Unknown,0,352
 Telangana,30217,283
 Delhi,35737,333
 Odisha,26577,270
 Tamil Nadu,26646,276
 Telangana,43457,407
 Andhra Pradesh,49838,477
-Unknown,0,436
 Bihar,24757,230
 Madhya Pradesh,13060,126
 West Bengal,48751,486
@@ -4501,19 +4184,16 @@ Maharashtra,39066,362
 Andhra Pradesh,3030,29
 Bihar,31000,288
 Madhya Pradesh,47370,457
-Unknown,0,378
 Tamil Nadu,19308,200
 Madhya Pradesh,32755,316
 Bihar,26049,242
 Tamil Nadu,19405,201
-Unknown,0,206
 West Bengal,43635,435
 Punjab region,9141,73
 Delhi,13844,129
 Karnataka,32147,319
 Tamil Nadu,39100,405
 Maharashtra,30433,282
-Unknown,0,328
 Telangana,14094,132
 Jammu and Kashmir,6053,90
 Puducherry,36850,207
@@ -4542,18 +4222,15 @@ Bihar,34445,320
 Tamil Nadu,44410,460
 Telangana,27654,259
 Andhra Pradesh,42733,409
-Unknown,0,206
 Andhra Pradesh,50987,488
 West Bengal,28388,283
 Uttarakhand,32158,423
 Maharashtra,20073,186
-Unknown,0,133
 Tamil Nadu,13612,141
 Delhi,13522,126
 Andhra Pradesh,36046,345
 Telangana,42816,401
 Haryana,45074,488
-Unknown,0,291
 Tamil Nadu,34852,361
 West Bengal,36713,366
 Madhya Pradesh,34828,336
@@ -4568,9 +4245,6 @@ Haryana,5172,56
 Assam,36436,308
 Punjab region,26796,214
 Tripura,5792,108
-Himachal Pradesh,0,297
-Mizoram,0,122
-Manipur,0,407
 Telangana,28829,270
 Delhi,14917,139
 Andhra Pradesh,47330,453
@@ -4593,7 +4267,6 @@ Delhi,32840,306
 Tamil Nadu,22012,228
 Madhya Pradesh,26017,251
 Odisha,689,7
-Unknown,0,430
 Tamil Nadu,36397,377
 Punjab region,11770,94
 Andhra Pradesh,21523,206
@@ -4610,7 +4283,6 @@ Odisha,35732,363
 Bihar,21528,200
 West Bengal,5015,50
 Punjab region,37941,303
-Unknown,0,397
 Telangana,17191,161
 West Bengal,43033,429
 Karnataka,14612,145
@@ -4622,7 +4294,6 @@ Delhi,10625,99
 Odisha,47052,478
 Andhra Pradesh,39807,381
 Chhattisgarh,16387,154
-Unknown,0,209
 Andhra Pradesh,32076,307
 Madhya Pradesh,27261,263
 Jammu and Kashmir,28584,425
@@ -4639,16 +4310,13 @@ Rajasthan,31523,354
 West Bengal,6119,61
 Gujarat,26399,281
 Karnataka,31442,312
-Mizoram,0,424
 Delhi,44216,412
 Bihar,17976,167
 Telangana,47194,442
 Tamil Nadu,22398,232
 West Bengal,41929,418
 Punjab region,12522,100
-Himachal Pradesh,0,436
 Uttarakhand,26076,343
-Manipur,0,247
 Tripura,16143,301
 Puducherry,77082,433
 Assam,44244,374
@@ -4669,10 +4337,8 @@ Maharashtra,46405,430
 West Bengal,37014,369
 Madhya Pradesh,40011,386
 Odisha,37012,376
-Unknown,0,83
 Bihar,13778,128
 Andhra Pradesh,38449,368
-Unknown,0,207
 Tamil Nadu,44796,464
 Maharashtra,6907,64
 Punjab region,22664,181
@@ -4689,7 +4355,6 @@ Odisha,2855,29
 Tamil Nadu,5793,60
 Delhi,6761,63
 West Bengal,41227,411
-Unknown,0,52
 Telangana,9183,86
 Maharashtra,40577,376
 Andhra Pradesh,29568,283
@@ -4711,7 +4376,6 @@ Tamil Nadu,28480,295
 Andhra Pradesh,13165,126
 Uttar Pradesh,28497,461
 Tamil Nadu,25584,265
-Unknown,0,99
 Delhi,39064,364
 Telangana,37157,348
 Andhra Pradesh,7418,71
@@ -4733,7 +4397,6 @@ Telangana,42496,398
 Chhattisgarh,19686,185
 Bihar,27879,259
 Punjab region,6136,49
-Unknown,0,436
 Bihar,27879,259
 Madhya Pradesh,37108,358
 Delhi,34020,317
@@ -4753,8 +4416,6 @@ Tamil Nadu,3669,38
 Andhra Pradesh,51614,494
 Telangana,28188,264
 Haryana,8220,89
-Unknown,0,290
-Unknown,0,157
 Andhra Pradesh,15254,146
 Tamil Nadu,22494,233
 Telangana,23811,223
@@ -4772,11 +4433,9 @@ Delhi,47113,439
 Telangana,1495,14
 Andhra Pradesh,39598,379
 Tamil Nadu,26646,276
-Unknown,0,264
 Punjab region,17029,136
 West Bengal,21165,211
 Tamil Nadu,45278,469
-Unknown,0,267
 Madhya Pradesh,20524,198
 Karnataka,25899,257
 Haryana,45536,493
@@ -4795,17 +4454,14 @@ Haryana,38147,413
 Uttarakhand,14140,186
 Karnataka,8667,86
 Rajasthan,18166,204
-Unknown,0,497
 Andhra Pradesh,13687,131
 Bihar,14854,138
 Gujarat,25741,274
 Jharkhand,22459,378
 Odisha,22738,231
 Jammu and Kashmir,7129,106
-Mizoram,0,482
 Odisha,33074,336
 Telangana,42816,401
-Manipur,0,336
 Delhi,14273,133
 Andhra Pradesh,12329,118
 Telangana,9503,89
@@ -4822,7 +4478,6 @@ Karnataka,18543,184
 Bihar,31108,289
 West Bengal,903,9
 Punjab region,10393,83
-Unknown,0,341
 West Bengal,15548,155
 Madhya Pradesh,33584,324
 Karnataka,13202,131
@@ -4833,7 +4488,6 @@ Tamil Nadu,19019,197
 Andhra Pradesh,7732,74
 Bihar,45640,424
 Maharashtra,33239,308
-Himachal Pradesh,0,6
 Tamil Nadu,11875,123
 Karnataka,11791,117
 Maharashtra,51585,478
@@ -4846,14 +4500,12 @@ Telangana,10143,95
 Telangana,11104,104
 West Bengal,19560,195
 Delhi,16527,154
-Unknown,0,238
 Madhya Pradesh,29231,282
 Punjab region,32807,262
 Punjab region,14525,116
 Bihar,14531,135
 Andhra Pradesh,18284,175
 Telangana,37050,347
-Unknown,0,369
 Karnataka,13000,129
 Tamil Nadu,20467,212
 West Bengal,42030,419
@@ -4864,8 +4516,6 @@ Andhra Pradesh,7418,71
 Tamil Nadu,17571,182
 Haryana,41195,446
 West Bengal,43534,434
-Unknown,0,28
-Unknown,0,41
 Telangana,36623,343
 Andhra Pradesh,19434,186
 Tamil Nadu,7723,80
@@ -4885,15 +4535,11 @@ Tamil Nadu,17667,183
 Delhi,30049,280
 Telangana,38011,356
 Chandigarh,13050,288
-Unknown,0,407
 Karnataka,43837,435
 Tamil Nadu,37072,384
 Punjab region,5885,47
 Bihar,15608,145
 Odisha,1181,12
-Himachal Pradesh,0,115
-Mizoram,0,466
-Manipur,0,161
 Tripura,25421,474
 Assam,5442,46
 Delhi,45074,420
@@ -4909,7 +4555,6 @@ Bihar,42087,391
 Odisha,44394,451
 Andhra Pradesh,18807,180
 Telangana,2456,23
-Unknown,0,239
 Telangana,43030,403
 Odisha,26381,268
 Bihar,23035,214
@@ -4948,7 +4593,6 @@ Maharashtra,3669,34
 Madhya Pradesh,44364,428
 West Bengal,26482,264
 Andhra Pradesh,17344,166
-Unknown,0,416
 Karnataka,18240,181
 Karnataka,3930,39
 Andhra Pradesh,27583,264
@@ -4975,7 +4619,6 @@ Karnataka,17636,175
 Andhra Pradesh,51196,490
 Telangana,4164,39
 Haryana,8775,95
-Unknown,0,52
 Odisha,23231,236
 Haryana,9144,99
 Chhattisgarh,32880,309
@@ -4983,7 +4626,6 @@ Delhi,26186,244
 Andhra Pradesh,42002,402
 Telangana,24344,228
 Tamil Nadu,35045,363
-Unknown,0,121
 Karnataka,3930,39
 Tamil Nadu,5406,56
 Maharashtra,46729,433
@@ -4995,9 +4637,7 @@ Bihar,23143,215
 Punjab region,33558,268
 Odisha,17029,173
 Gujarat,17474,186
-Manipur,0,182
 Andhra Pradesh,23404,224
-Himachal Pradesh,0,293
 Tripura,12013,224
 Chandigarh,5709,126
 Assam,52052,440
@@ -5008,9 +4648,7 @@ Uttarakhand,2965,39
 Jammu and Kashmir,135,2
 Jharkhand,28579,481
 Rajasthan,13802,155
-Unknown,0,381
 Andhra Pradesh,47957,459
-Mizoram,0,416
 Punjab region,44702,357
 Andhra Pradesh,45972,440
 Karnataka,41419,411
@@ -5026,7 +4664,6 @@ Delhi,44752,417
 Tamil Nadu,12647,131
 Delhi,25113,234
 West Bengal,47948,478
-Unknown,0,477
 Madhya Pradesh,16481,159
 Punjab region,16904,135
 Bihar,30785,286
@@ -5063,7 +4700,6 @@ Tamil Nadu,8496,88
 Madhya Pradesh,34621,334
 Karnataka,8868,88
 Telangana,32032,300
-Unknown,0,188
 Haryana,4526,49
 Telangana,23170,217
 Karnataka,36077,358
@@ -5072,11 +4708,9 @@ Andhra Pradesh,1776,17
 Tamil Nadu,45375,470
 Maharashtra,37556,348
 Odisha,9351,95
-Unknown,0,342
 Punjab region,17405,139
 Maharashtra,7986,74
 Andhra Pradesh,50047,479
-Unknown,0,473
 Punjab region,57600,460
 Punjab region,29301,234
 Bihar,10656,99
@@ -5087,7 +4721,6 @@ Bihar,20021,186
 Tamil Nadu,27322,283
 Telangana,43670,409
 Andhra Pradesh,33330,319
-Unknown,0,338
 Haryana,8405,91
 Bihar,12917,120
 Andhra Pradesh,2821,27
@@ -5100,7 +4733,6 @@ Telangana,48902,458
 Delhi,25864,241
 West Bengal,21667,216
 Delhi,3220,30
-Unknown,0,484
 Madhya Pradesh,4975,48
 Andhra Pradesh,38449,368
 Punjab region,37565,300
@@ -5121,7 +4753,6 @@ Telangana,38866,364
 Andhra Pradesh,1881,18
 Madhya Pradesh,4975,48
 Maharashtra,38527,357
-Unknown,0,457
 Tamil Nadu,21046,218
 Madhya Pradesh,3110,30
 West Bengal,7423,74
@@ -5135,7 +4766,6 @@ Maharashtra,4748,44
 Telangana,40147,376
 Karnataka,28015,278
 Gujarat,39833,424
-Himachal Pradesh,0,170
 West Bengal,44538,444
 Punjab region,49711,397
 Jharkhand,9150,154
@@ -5166,13 +4796,10 @@ Andhra Pradesh,4179,40
 Odisha,36815,374
 Tamil Nadu,11778,122
 Puducherry,3204,18
-Unknown,0,424
 Odisha,25003,254
 Karnataka,12798,127
 Tamil Nadu,31859,330
 Telangana,31285,293
-Mizoram,0,220
-Manipur,0,491
 Tripura,26815,500
 West Bengal,2307,23
 Chandigarh,3172,70
@@ -5181,7 +4808,6 @@ Assam,57612,487
 Rajasthan,22084,248
 Uttarakhand,28432,374
 Kerala,8647,138
-Unknown,0,295
 Delhi,27152,253
 Bihar,47254,439
 Odisha,43311,440
@@ -5200,7 +4826,6 @@ Haryana,16626,180
 Gujarat,4228,45
 Bihar,20882,194
 Rajasthan,9261,104
-Unknown,0,222
 West Bengal,48349,482
 Maharashtra,47592,441
 Telangana,8008,75
@@ -5222,17 +4847,12 @@ Punjab region,32807,262
 Madhya Pradesh,50169,484
 Telangana,25092,235
 Maharashtra,7231,67
-Unknown,0,374
-Unknown,0,82
 Uttar Pradesh,16752,271
 West Bengal,11536,115
 Bihar,42303,393
 Karnataka,46760,464
 Telangana,3096,29
 Tamil Nadu,41706,432
-Mizoram,0,20
-Himachal Pradesh,0,198
-Manipur,0,26
 Tripura,10136,189
 Punjab region,25294,202
 Assam,22832,193
@@ -5251,7 +4871,6 @@ Tamil Nadu,38907,403
 Andhra Pradesh,33539,321
 Telangana,50290,471
 Delhi,19747,184
-Unknown,0,109
 West Bengal,10131,101
 Maharashtra,18778,174
 Karnataka,30333,301
@@ -5266,7 +4885,6 @@ Tamil Nadu,24811,257
 Andhra Pradesh,4702,45
 Tamil Nadu,6468,67
 Andhra Pradesh,12015,115
-Unknown,0,165
 Bihar,28740,267
 Delhi,52479,489
 Telangana,43777,410
@@ -5310,14 +4928,10 @@ Karnataka,44643,443
 Kerala,23622,377
 Tamil Nadu,39872,413
 Puducherry,16734,94
-Unknown,0,345
-Manipur,0,104
-Himachal Pradesh,0,243
 Chandigarh,20300,448
 Punjab region,16904,135
 Andhra Pradesh,18284,175
 Assam,47911,405
-Mizoram,0,24
 Telangana,18045,169
 Bihar,32292,300
 Andhra Pradesh,38136,365
@@ -5332,16 +4946,13 @@ West Bengal,26983,269
 Maharashtra,44570,413
 Delhi,21142,197
 Tamil Nadu,12647,131
-Unknown,0,268
 Karnataka,38698,384
 Madhya Pradesh,14097,136
 Tamil Nadu,13033,135
-Unknown,0,396
 West Bengal,43033,429
 Maharashtra,44354,411
 Delhi,52479,489
 Telangana,21355,200
-Unknown,0,499
 Jharkhand,23232,391
 Punjab region,52842,422
 Bihar,6458,60
@@ -5361,7 +4972,6 @@ Andhra Pradesh,3657,35
 Maharashtra,18022,167
 Telangana,107,1
 Madhya Pradesh,18036,174
-Unknown,0,254
 Tamil Nadu,20853,216
 Delhi,7190,67
 West Bengal,42130,420
@@ -5387,7 +4997,6 @@ Madhya Pradesh,38870,375
 Karnataka,10581,105
 Rajasthan,37043,416
 Maharashtra,37879,351
-Unknown,0,110
 Gujarat,1597,17
 Telangana,23063,216
 Telangana,32779,307
@@ -5402,7 +5011,6 @@ Karnataka,10984,109
 Maharashtra,24821,230
 Tamil Nadu,1931,20
 Telangana,4057,38
-Unknown,0,123
 Andhra Pradesh,25702,246
 Tamil Nadu,2414,25
 Andhra Pradesh,17344,166
@@ -5421,12 +5029,8 @@ Andhra Pradesh,36255,347
 West Bengal,44738,446
 Jammu and Kashmir,26768,398
 Maharashtra,27627,256
-Unknown,0,291
 West Bengal,32199,321
-Mizoram,0,65
-Himachal Pradesh,0,433
 Tripura,20701,386
-Manipur,0,248
 Chandigarh,45,1
 Punjab region,15151,121
 Puducherry,22608,127
@@ -5449,7 +5053,6 @@ Tamil Nadu,39969,414
 Madhya Pradesh,30889,298
 Karnataka,705,7
 Rajasthan,178,2
-Unknown,0,122
 Gujarat,39833,424
 Madhya Pradesh,36901,356
 Maharashtra,21799,202
@@ -5471,14 +5074,12 @@ Bihar,53820,500
 Odisha,11615,118
 Bihar,33691,313
 Delhi,50118,467
-Unknown,0,474
 Telangana,11959,112
 Andhra Pradesh,34374,329
 Andhra Pradesh,45867,439
 Odisha,21065,214
 Telangana,45272,424
 West Bengal,43735,436
-Unknown,0,57
 Tamil Nadu,25004,259
 Punjab region,31054,248
 Delhi,5903,55
@@ -5495,8 +5096,6 @@ Tamil Nadu,5406,56
 Telangana,22529,211
 Punjab region,37690,301
 Madhya Pradesh,34310,331
-Unknown,0,408
-Unknown,0,28
 Punjab region,12647,101
 Bihar,27233,253
 West Bengal,11034,110
@@ -5515,16 +5114,13 @@ Karnataka,48070,477
 Bihar,31108,289
 Punjab region,32181,257
 Madhya Pradesh,32444,313
-Unknown,0,446
 Tamil Nadu,4731,49
 Bihar,36167,336
-Unknown,0,270
 Telangana,31925,299
 Maharashtra,43167,400
 West Bengal,14344,143
 Andhra Pradesh,1776,17
 Bihar,31646,294
-Unknown,0,67
 Karnataka,1612,16
 Delhi,31445,293
 Maharashtra,4317,40
@@ -5533,7 +5129,6 @@ Tamil Nadu,23460,243
 Tamil Nadu,24811,257
 Telangana,36837,345
 Haryana,6004,65
-Unknown,0,379
 Punjab region,54344,434
 Delhi,30908,288
 Odisha,48135,489
@@ -5587,9 +5182,6 @@ Assam,3312,28
 Chandigarh,3580,79
 Punjab region,22539,180
 Tripura,25260,471
-Manipur,0,300
-Mizoram,0,204
-Himachal Pradesh,0,411
 Punjab region,12271,98
 Chhattisgarh,6704,63
 Rajasthan,31612,355
@@ -5617,7 +5209,6 @@ Odisha,15061,153
 Punjab region,25544,204
 Maharashtra,2590,24
 West Bengal,26983,269
-Unknown,0,195
 Andhra Pradesh,22986,220
 Karnataka,35674,354
 Madhya Pradesh,22182,214
@@ -5627,7 +5218,6 @@ Tamil Nadu,20564,213
 Karnataka,17837,177
 Maharashtra,37340,346
 Delhi,4722,44
-Unknown,0,395
 West Bengal,301,3
 Odisha,42819,435
 Tamil Nadu,44603,462
@@ -5652,11 +5242,9 @@ Uttarakhand,2509,33
 Andhra Pradesh,7627,73
 Telangana,51145,479
 Rajasthan,12734,143
-Himachal Pradesh,0,354
 West Bengal,30093,300
 Gujarat,11649,124
 Maharashtra,18670,173
-Unknown,0,482
 Uttar Pradesh,21264,344
 Tamil Nadu,8496,88
 Delhi,44001,410
@@ -5665,14 +5253,11 @@ Karnataka,20357,202
 Bihar,41226,383
 Madhya Pradesh,2799,27
 Andhra Pradesh,19329,185
-Manipur,0,338
-Mizoram,0,232
 Delhi,10517,98
 Bihar,17761,165
 Delhi,13522,126
 Punjab region,21663,173
 Odisha,29137,296
-Unknown,0,244
 Andhra Pradesh,22777,218
 West Bengal,4313,43
 Karnataka,12295,122
@@ -5682,7 +5267,6 @@ Maharashtra,27303,253
 Odisha,30515,310
 Punjab region,42824,342
 Delhi,53445,498
-Unknown,0,420
 Telangana,33847,317
 Andhra Pradesh,48166,461
 Karnataka,16829,167
@@ -5708,7 +5292,6 @@ Tamil Nadu,19695,204
 Delhi,45181,421
 Madhya Pradesh,15755,152
 Punjab region,19409,155
-Unknown,0,236
 Odisha,42032,427
 Bihar,3229,30
 Telangana,22743,213
@@ -5724,7 +5307,6 @@ Tamil Nadu,7337,76
 Bihar,41549,386
 West Bengal,17855,178
 Andhra Pradesh,50778,486
-Unknown,0,330
 Madhya Pradesh,33480,323
 Bihar,30678,285
 Punjab region,16654,133
@@ -5743,7 +5325,6 @@ Delhi,50869,474
 Odisha,38980,396
 Bihar,1722,16
 Punjab region,250,2
-Unknown,0,126
 Delhi,22215,207
 Telangana,25519,239
 Karnataka,34465,342
@@ -5762,7 +5343,6 @@ Odisha,43508,442
 Delhi,28010,261
 West Bengal,18959,189
 Karnataka,44039,437
-Unknown,0,139
 Bihar,18945,176
 Telangana,14948,140
 Delhi,23288,217
@@ -5783,7 +5363,6 @@ Delhi,26401,246
 Tamil Nadu,27515,285
 Rajasthan,7124,80
 Bihar,39719,369
-Unknown,0,265
 Uttar Pradesh,3647,59
 West Bengal,47747,476
 Madhya Pradesh,32859,317
@@ -5793,7 +5372,6 @@ Karnataka,30636,304
 Uttarakhand,10643,140
 West Bengal,12739,127
 Tamil Nadu,39775,412
-Unknown,0,440
 Andhra Pradesh,50360,482
 Telangana,48262,452
 Tamil Nadu,35528,368
@@ -5820,7 +5398,6 @@ Tamil Nadu,483,5
 Andhra Pradesh,16822,161
 Telangana,28295,265
 Haryana,17734,192
-Unknown,0,13
 Odisha,13978,142
 Haryana,10714,116
 Delhi,18996,177
@@ -5833,11 +5410,9 @@ Kerala,12344,197
 Assam,58676,496
 Chandigarh,8881,196
 Punjab region,19409,155
-Manipur,0,76
 Puducherry,80108,450
 Tripura,24616,459
 West Bengal,48450,483
-Himachal Pradesh,0,497
 Tamil Nadu,13130,136
 Maharashtra,33131,307
 Andhra Pradesh,13792,132
@@ -5855,10 +5430,7 @@ Karnataka,45046,447
 Chandigarh,9198,203
 Punjab region,40570,324
 Madhya Pradesh,44675,431
-Manipur,0,408
-Mizoram,0,332
 Tripura,751,14
-Himachal Pradesh,0,23
 West Bengal,11536,115
 Karnataka,18946,188
 Telangana,49329,462
@@ -5870,13 +5442,11 @@ Odisha,984,10
 Bihar,47469,441
 Delhi,36274,338
 Maharashtra,5504,51
-Unknown,0,344
 Punjab region,16403,131
 Madhya Pradesh,46230,446
 Tamil Nadu,41320,428
 Telangana,31391,294
 West Bengal,43835,437
-Unknown,0,406
 Telangana,31819,298
 Andhra Pradesh,8463,81
 Madhya Pradesh,43742,422
@@ -5889,7 +5459,6 @@ Bihar,42303,393
 Maharashtra,9281,86
 Andhra Pradesh,25180,241
 Punjab region,43701,349
-Unknown,0,373
 Tamil Nadu,11295,117
 Andhra Pradesh,18807,180
 Delhi,5259,49
@@ -5902,9 +5471,7 @@ Jammu and Kashmir,8743,130
 Chhattisgarh,31497,296
 Puducherry,47887,269
 Assam,8044,68
-Unknown,0,26
 Karnataka,50085,497
-Unknown,0,369
 Odisha,8761,89
 Odisha,18407,187
 West Bengal,22971,229
@@ -5941,7 +5508,6 @@ Bihar,15823,147
 West Bengal,48550,484
 Punjab region,25920,207
 Madhya Pradesh,46852,452
-Unknown,0,285
 Andhra Pradesh,50882,487
 Delhi,29942,279
 Karnataka,14814,147
@@ -5950,7 +5516,6 @@ Punjab region,47332,378
 Telangana,21782,204
 Andhra Pradesh,11911,114
 Tamil Nadu,20370,211
-Unknown,0,179
 Telangana,7261,68
 Odisha,32976,335
 Punjab region,14650,117
@@ -5980,7 +5545,6 @@ West Bengal,47447,473
 Tamil Nadu,27128,281
 Bihar,50806,472
 Maharashtra,49750,461
-Unknown,0,388
 Odisha,47052,478
 Punjab region,16153,129
 West Bengal,36312,362
@@ -5988,7 +5552,6 @@ Madhya Pradesh,17518,169
 Telangana,30324,284
 Delhi,1502,14
 Tamil Nadu,30797,319
-Unknown,0,206
 Andhra Pradesh,22881,219
 Karnataka,9674,96
 Bihar,28848,268
@@ -6021,8 +5584,6 @@ Maharashtra,48563,450
 Punjab region,54845,438
 Telangana,4912,46
 Punjab region,29426,235
-Unknown,0,86
-Unknown,0,133
 Punjab region,29802,238
 Telangana,34274,321
 Maharashtra,28275,262
@@ -6031,17 +5592,13 @@ Andhra Pradesh,29777,285
 Madhya Pradesh,32029,309
 Karnataka,22473,223
 Tamil Nadu,33597,348
-Unknown,0,385
 West Bengal,12539,125
 Delhi,4615,43
 Uttarakhand,33754,444
 Bihar,7104,66
 Odisha,38882,395
 Delhi,19961,186
-Himachal Pradesh,0,38
-Mizoram,0,80
 Tripura,22632,422
-Manipur,0,294
 Chandigarh,7975,176
 Assam,41523,351
 Kerala,19361,309
@@ -6056,7 +5613,6 @@ Delhi,10517,98
 Andhra Pradesh,43673,418
 Uttar Pradesh,309,5
 Chhattisgarh,53098,499
-Unknown,0,30
 Telangana,12065,113
 Madhya Pradesh,45815,442
 West Bengal,32300,322
@@ -6075,7 +5631,6 @@ Andhra Pradesh,36464,349
 Tamil Nadu,22591,234
 Bihar,21636,201
 Punjab region,35436,283
-Unknown,0,267
 Karnataka,49884,495
 Odisha,34452,350
 Madhya Pradesh,17103,165
@@ -6088,10 +5643,7 @@ Tamil Nadu,37845,392
 Andhra Pradesh,8567,82
 Gujarat,15125,161
 West Bengal,35510,354
-Himachal Pradesh,0,172
-Mizoram,0,446
 Tripura,10512,196
-Manipur,0,139
 Puducherry,82957,466
 Assam,54063,457
 Uttarakhand,34134,449
@@ -6099,7 +5651,6 @@ Jammu and Kashmir,15200,226
 Jharkhand,19310,325
 Delhi,3112,29
 Odisha,6694,68
-Unknown,0,90
 Telangana,32459,304
 Karnataka,47263,469
 Andhra Pradesh,11180,107
@@ -6128,13 +5679,11 @@ Telangana,13240,124
 Bihar,40473,376
 Madhya Pradesh,7670,74
 Andhra Pradesh,14105,135
-Unknown,0,172
 Karnataka,14814,147
 Maharashtra,6799,63
 Delhi,40352,376
 Punjab region,34936,279
 West Bengal,2407,24
-Unknown,0,275
 Odisha,22738,231
 Odisha,19687,200
 Punjab region,28925,231
@@ -6148,7 +5697,6 @@ Odisha,7481,76
 Maharashtra,2374,22
 Telangana,49863,467
 Telangana,26266,246
-Unknown,0,377
 Madhya Pradesh,35554,343
 Maharashtra,40577,376
 Delhi,16205,151
@@ -6175,7 +5723,6 @@ Tripura,24080,449
 Delhi,2898,27
 Madhya Pradesh,47992,463
 Bihar,17868,166
-Mizoram,0,412
 Andhra Pradesh,21941,210
 Tamil Nadu,2993,31
 Karnataka,49984,496
@@ -6192,13 +5739,11 @@ Telangana,3417,32
 Odisha,22640,230
 Gujarat,12777,136
 Tamil Nadu,6661,69
-Unknown,0,230
 West Bengal,36011,359
 Assam,45309,383
 Jharkhand,15686,264
 Puducherry,47175,265
 Punjab region,12647,101
-Manipur,0,322
 Maharashtra,53959,500
 Delhi,34020,317
 Rajasthan,17364,195
@@ -6207,7 +5752,6 @@ Bihar,21959,204
 Uttar Pradesh,13414,217
 Madhya Pradesh,33066,319
 Andhra Pradesh,37927,363
-Unknown,0,321
 Bihar,24542,228
 Bihar,51560,479
 Telangana,36944,346
@@ -6219,7 +5763,6 @@ Andhra Pradesh,24553,235
 Tamil Nadu,13709,142
 West Bengal,45842,457
 Punjab region,15777,126
-Unknown,0,62
 Delhi,34449,321
 Odisha,34649,352
 Tamil Nadu,31183,323
@@ -6239,14 +5782,12 @@ Andhra Pradesh,29568,283
 Tamil Nadu,46727,484
 Telangana,48262,452
 Tamil Nadu,30507,316
-Unknown,0,104
 Punjab region,32682,261
 Delhi,25971,242
 Andhra Pradesh,44614,427
 Odisha,29038,295
 Madhya Pradesh,14201,137
 Telangana,47621,446
-Unknown,0,158
 Tamil Nadu,43154,447
 Bihar,9257,86
 Maharashtra,38743,359
@@ -6260,7 +5801,6 @@ Maharashtra,47592,441
 Maharashtra,12842,119
 Odisha,24806,252
 Andhra Pradesh,46181,442
-Unknown,0,426
 Madhya Pradesh,34517,333
 Maharashtra,29785,276
 Telangana,29149,273
@@ -6298,7 +5838,6 @@ Bihar,12594,117
 Bihar,11625,108
 Odisha,1280,13
 Odisha,33468,340
-Unknown,0,50
 Madhya Pradesh,41565,401
 Tamil Nadu,1448,15
 Telangana,52319,490
@@ -6324,7 +5863,6 @@ Maharashtra,34534,320
 Tamil Nadu,4441,46
 Telangana,30751,288
 Madhya Pradesh,2073,20
-Unknown,0,77
 West Bengal,26582,265
 Madhya Pradesh,1140,11
 West Bengal,11335,113
@@ -6338,12 +5876,7 @@ Chhattisgarh,29156,274
 Assam,55601,470
 Chandigarh,13548,299
 Puducherry,43971,247
-Manipur,0,36
-Unknown,0,74
-Mizoram,0,155
 Tripura,322,6
-Himachal Pradesh,0,216
-Unknown,0,87
 Telangana,27761,260
 Tamil Nadu,17957,186
 Andhra Pradesh,45554,436
@@ -6361,7 +5894,6 @@ Karnataka,17333,172
 Maharashtra,8094,75
 Odisha,24018,244
 West Bengal,19962,199
-Unknown,0,362
 Delhi,48938,456
 Punjab region,4758,38
 Punjab region,35311,282
@@ -6381,11 +5913,9 @@ Madhya Pradesh,28401,274
 Karnataka,15116,150
 Tamil Nadu,483,5
 Maharashtra,6043,56
-Unknown,0,467
 Tamil Nadu,4441,46
 Andhra Pradesh,41061,393
 Jammu and Kashmir,30333,451
-Manipur,0,102
 Chandigarh,6706,148
 Gujarat,40585,432
 Odisha,46068,468
@@ -6412,14 +5942,12 @@ Punjab region,28299,226
 Odisha,35240,358
 Delhi,27259,254
 Andhra Pradesh,14105,135
-Himachal Pradesh,0,24
 Assam,42351,358
 Punjab region,34560,276
 Maharashtra,23634,219
 Delhi,11483,107
 Telangana,747,7
 Bihar,33046,307
-Unknown,0,263
 Delhi,39494,368
 Madhya Pradesh,38352,370
 Andhra Pradesh,4597,44
@@ -6432,7 +5960,6 @@ Madhya Pradesh,15859,153
 Tripura,19039,355
 Jharkhand,8140,137
 Andhra Pradesh,33852,324
-Unknown,0,346
 Odisha,46560,473
 Karnataka,30434,302
 Tamil Nadu,41417,429
@@ -6468,7 +5995,6 @@ West Bengal,10833,108
 West Bengal,18858,188
 West Bengal,41428,413
 Telangana,8755,82
-Unknown,0,298
 Punjab region,3130,25
 Delhi,14595,136
 Delhi,41425,386
@@ -6486,9 +6012,7 @@ Andhra Pradesh,39807,381
 Madhya Pradesh,20109,194
 Bihar,3122,29
 Bihar,24004,223
-Unknown,0,303
 Tripura,26172,488
-Manipur,0,151
 Chhattisgarh,50438,474
 Telangana,22316,209
 Gujarat,30626,326
@@ -6504,7 +6028,6 @@ Tamil Nadu,35914,372
 West Bengal,45039,449
 Chandigarh,8609,190
 Maharashtra,35721,331
-Unknown,0,311
 Tamil Nadu,28287,293
 Andhra Pradesh,33956,325
 Telangana,13133,123
@@ -6526,7 +6049,6 @@ Tamil Nadu,21722,225
 Karnataka,14411,143
 Maharashtra,26656,247
 Uttar Pradesh,19348,313
-Unknown,0,347
 West Bengal,301,3
 Delhi,29084,271
 Maharashtra,7123,66
@@ -6536,7 +6058,6 @@ Odisha,11714,119
 Telangana,33954,318
 Punjab region,55346,442
 Madhya Pradesh,21146,204
-Unknown,0,278
 Bihar,34553,321
 Odisha,35141,357
 Andhra Pradesh,46599,446
@@ -6551,7 +6072,6 @@ Telangana,19753,185
 West Bengal,40926,408
 Andhra Pradesh,36882,353
 Bihar,33046,307
-Unknown,0,299
 Haryana,37870,410
 Tamil Nadu,23943,248
 Gujarat,46409,494
@@ -6573,11 +6093,9 @@ Telangana,1068,10
 Bihar,14747,137
 Madhya Pradesh,47681,460
 Delhi,36274,338
-Unknown,0,366
 Punjab region,34435,275
 Puducherry,12105,68
 Madhya Pradesh,19176,185
-Unknown,0,127
 Odisha,38980,396
 Bihar,38212,355
 West Bengal,31698,316
@@ -6600,18 +6118,15 @@ Karnataka,44744,444
 Bihar,21420,199
 Delhi,15025,140
 Odisha,34748,353
-Unknown,0,103
 Karnataka,31543,313
 Punjab region,23916,191
 Madhya Pradesh,4561,44
 Delhi,644,6
 Punjab region,51715,413
 Odisha,42918,436
-Unknown,0,179
 Bihar,3337,31
 Andhra Pradesh,12329,118
 Tamil Nadu,1641,17
-Unknown,0,199
 Maharashtra,27519,255
 Delhi,28010,261
 Bihar,18514,172
@@ -6654,7 +6169,6 @@ West Bengal,18959,189
 Telangana,39293,368
 Andhra Pradesh,39285,376
 Bihar,28094,261
-Himachal Pradesh,0,120
 Madhya Pradesh,28505,275
 Assam,33360,282
 Andhra Pradesh,16926,162
@@ -6663,7 +6177,6 @@ Chandigarh,19665,434
 Maharashtra,29354,272
 Uttar Pradesh,21635,350
 Maharashtra,38419,356
-Mizoram,0,142
 Odisha,35732,363
 Bihar,12271,114
 Chhattisgarh,19579,184
@@ -6674,18 +6187,14 @@ Tripura,18288,341
 Jammu and Kashmir,22060,328
 Haryana,7297,79
 Odisha,32680,332
-Manipur,0,72
 Telangana,39079,366
 Tamil Nadu,33307,345
 Madhya Pradesh,26639,257
-Unknown,0,141
 Jharkhand,2020,34
 Karnataka,9574,95
 West Bengal,26181,261
 Rajasthan,35797,402
 Gujarat,14092,150
-Unknown,0,88
-Unknown,0,24
 Delhi,53660,500
 Karnataka,24488,243
 Andhra Pradesh,17866,171
@@ -6696,7 +6205,6 @@ Madhya Pradesh,7463,72
 Punjab region,23040,184
 West Bengal,49352,492
 Maharashtra,47052,436
-Unknown,0,176
 Odisha,29727,302
 Karnataka,45752,454
 Uttarakhand,36567,481
@@ -6723,7 +6231,6 @@ Punjab region,31179,249
 Tamil Nadu,14868,154
 Bihar,14639,136
 Andhra Pradesh,5224,50
-Unknown,0,64
 Puducherry,80464,452
 Chandigarh,20255,447
 Punjab region,31930,255
@@ -6737,17 +6244,14 @@ Andhra Pradesh,2194,21
 Odisha,1378,14
 Punjab region,33433,267
 Odisha,47052,478
-Unknown,0,223
 Punjab region,25544,204
 Madhya Pradesh,13371,129
 Odisha,7579,77
 Bihar,15500,144
-Unknown,0,76
 Delhi,25542,238
 Karnataka,35876,356
 Delhi,5688,53
 Telangana,6086,57
-Unknown,0,66
 West Bengal,39923,398
 Punjab region,42073,336
 Karnataka,1109,11
@@ -6758,7 +6262,6 @@ Bihar,34337,319
 Madhya Pradesh,27572,266
 Delhi,1932,18
 Tamil Nadu,34466,357
-Unknown,0,415
 Maharashtra,17375,161
 Punjab region,20035,160
 West Bengal,42331,422
@@ -6784,7 +6287,6 @@ Jammu and Kashmir,16881,251
 Tamil Nadu,11682,121
 Uttar Pradesh,9520,154
 Puducherry,41122,231
-Himachal Pradesh,0,339
 Bihar,15393,143
 Punjab region,48960,391
 Delhi,4507,42
@@ -6798,7 +6300,6 @@ Odisha,12108,123
 West Bengal,22871,228
 Rajasthan,20926,235
 Telangana,42603,399
-Manipur,0,351
 Tamil Nadu,7916,82
 Andhra Pradesh,39703,380
 Jharkhand,2258,38
@@ -6807,21 +6308,18 @@ Andhra Pradesh,17239,165
 Maharashtra,20720,192
 Karnataka,32349,321
 Haryana,22907,248
-Mizoram,0,332
 Kerala,30013,479
 Punjab region,34560,276
 Chhattisgarh,27773,261
 Assam,48266,408
 Uttarakhand,760,10
 Bihar,27879,259
-Unknown,0,378
 Chandigarh,2673,59
 Madhya Pradesh,48925,472
 Andhra Pradesh,7000,67
 Odisha,36323,369
 West Bengal,4213,42
 Tamil Nadu,16798,174
-Unknown,0,484
 Andhra Pradesh,9926,95
 Telangana,47728,447
 Delhi,39172,365
@@ -6829,7 +6327,6 @@ Gujarat,2818,30
 Telangana,44418,416
 Bihar,31862,296
 Telangana,26693,250
-Unknown,0,16
 Delhi,36274,338
 Odisha,13190,134
 Punjab region,37690,301
@@ -6859,7 +6356,6 @@ Rajasthan,32947,370
 Odisha,40457,411
 Andhra Pradesh,35733,342
 Delhi,19532,182
-Manipur,0,108
 Jammu and Kashmir,21657,322
 Haryana,19212,208
 Chhattisgarh,49480,465
@@ -6869,7 +6365,6 @@ Puducherry,66045,371
 Kerala,19674,314
 Assam,47438,401
 Maharashtra,5288,49
-Himachal Pradesh,0,207
 Karnataka,41519,412
 Karnataka,36783,365
 Tamil Nadu,13226,137
@@ -6884,9 +6379,7 @@ West Bengal,35710,356
 Uttar Pradesh,27631,447
 Punjab region,51965,415
 Karnataka,14814,147
-Unknown,0,371
 Odisha,34354,349
-Unknown,0,107
 Gujarat,5355,57
 Karnataka,15519,154
 Jharkhand,15686,264
@@ -6905,7 +6398,6 @@ Andhra Pradesh,11702,112
 Maharashtra,40685,377
 Bihar,24327,226
 Delhi,31123,290
-Unknown,0,52
 Punjab region,30302,242
 Tamil Nadu,28577,296
 Telangana,13347,125
@@ -6918,7 +6410,6 @@ Punjab region,4883,39
 Haryana,39717,430
 West Bengal,23573,235
 Andhra Pradesh,36568,350
-Unknown,0,14
 Karnataka,26302,261
 Delhi,39172,365
 Telangana,43030,403
@@ -6937,8 +6428,6 @@ Telangana,34915,327
 Andhra Pradesh,22568,216
 Tamil Nadu,21336,221
 Odisha,13289,135
-Mizoram,0,119
-Unknown,0,278
 Maharashtra,11763,109
 Karnataka,21767,216
 Andhra Pradesh,35001,335
@@ -6973,7 +6462,6 @@ Odisha,31696,322
 Madhya Pradesh,27468,265
 Uttar Pradesh,11807,191
 Telangana,24024,225
-Unknown,0,261
 West Bengal,48149,480
 Bihar,8611,80
 Tamil Nadu,35431,367
@@ -6983,14 +6471,12 @@ Gujarat,2443,26
 Rajasthan,4096,46
 Bihar,46285,430
 Delhi,39923,372
-Unknown,0,368
 Andhra Pradesh,41375,396
 West Bengal,8125,81
 Maharashtra,4101,38
 Karnataka,16326,162
 Bihar,13563,126
 Gujarat,1879,20
-Unknown,0,353
 Haryana,16810,182
 Tamil Nadu,44603,462
 Madhya Pradesh,26328,254
@@ -7013,7 +6499,6 @@ Punjab region,45579,364
 Andhra Pradesh,7418,71
 Karnataka,17233,171
 Maharashtra,17267,160
-Unknown,0,341
 Tamil Nadu,7723,80
 Madhya Pradesh,14408,139
 Telangana,50184,470
@@ -7033,12 +6518,8 @@ West Bengal,35510,354
 West Bengal,33102,330
 Telangana,10784,101
 Chandigarh,634,14
-Manipur,0,462
-Himachal Pradesh,0,301
-Mizoram,0,192
 Tripura,10297,192
 Odisha,16931,172
-Unknown,0,477
 Punjab region,34435,275
 Bihar,35737,332
 Tamil Nadu,16798,174
@@ -7054,7 +6535,6 @@ Punjab region,42073,336
 Bihar,16146,150
 Odisha,14667,149
 West Bengal,13742,137
-Unknown,0,369
 Delhi,15776,147
 Telangana,37798,354
 Tamil Nadu,24136,250
@@ -7076,12 +6556,10 @@ Maharashtra,1079,10
 Madhya Pradesh,21664,209
 Bihar,52098,484
 West Bengal,22269,222
-Unknown,0,419
 Gujarat,30814,328
 Haryana,3787,41
 Madhya Pradesh,19902,192
 Odisha,98,1
-Unknown,0,194
 Bihar,861,8
 Maharashtra,8094,75
 Jammu and Kashmir,28786,428
@@ -7099,7 +6577,6 @@ Madhya Pradesh,22700,219
 Karnataka,17837,177
 Tamil Nadu,38907,403
 Maharashtra,27627,256
-Unknown,0,412
 Telangana,34701,325
 West Bengal,26783,267
 Andhra Pradesh,28941,277
@@ -7118,7 +6595,6 @@ Odisha,45477,462
 Punjab region,13273,106
 Delhi,7298,68
 Madhya Pradesh,17518,169
-Unknown,0,318
 Andhra Pradesh,32389,310
 Tamil Nadu,2414,25
 Bihar,42518,395
@@ -7139,10 +6615,8 @@ Maharashtra,32268,299
 Karnataka,17434,173
 Delhi,21893,204
 Bihar,47577,442
-Unknown,0,199
 Punjab region,30302,242
 Odisha,29038,295
-Manipur,0,27
 Maharashtra,4425,41
 Karnataka,21062,209
 Tamil Nadu,45471,471
@@ -7178,11 +6652,9 @@ Chhattisgarh,42138,396
 Haryana,12007,130
 Telangana,43457,407
 Tripura,8956,167
-Manipur,0,413
 Puducherry,36850,207
 Kerala,26254,419
 Bihar,17976,167
-Mizoram,0,282
 Punjab region,46956,375
 Madhya Pradesh,16377,158
 Andhra Pradesh,50569,484
@@ -7197,7 +6669,6 @@ Madhya Pradesh,41980,405
 Jammu and Kashmir,5448,81
 Andhra Pradesh,31762,304
 Madhya Pradesh,37212,359
-Unknown,0,367
 Bihar,42841,398
 Odisha,9647,98
 Bihar,22066,205
@@ -7236,7 +6707,6 @@ Telangana,6940,65
 Tamil Nadu,1159,12
 Andhra Pradesh,24449,234
 Telangana,30644,287
-Unknown,0,331
 Maharashtra,49534,459
 Punjab region,43951,351
 Bihar,49838,463
@@ -7244,7 +6714,6 @@ Tamil Nadu,18440,191
 Madhya Pradesh,23944,231
 Odisha,12304,125
 Punjab region,27047,216
-Unknown,0,23
 Maharashtra,18238,169
 Telangana,19006,178
 Tamil Nadu,22881,237
@@ -7254,7 +6723,6 @@ Bihar,32507,302
 Karnataka,37085,368
 West Bengal,31497,314
 Andhra Pradesh,51823,496
-Unknown,0,26
 Punjab region,28174,225
 Tamil Nadu,33500,347
 Delhi,13522,126
@@ -7267,7 +6735,6 @@ Uttar Pradesh,10076,163
 Madhya Pradesh,40529,391
 West Bengal,17855,178
 Maharashtra,1079,10
-Unknown,0,402
 Gujarat,17568,187
 Andhra Pradesh,21732,208
 Delhi,51299,478
@@ -7284,14 +6751,12 @@ Gujarat,43309,461
 Odisha,39965,406
 Jharkhand,15092,254
 Rajasthan,37489,421
-Unknown,0,397
 Tamil Nadu,14578,151
 Karnataka,34969,347
 Maharashtra,14137,131
 West Bengal,16050,160
 Punjab region,56222,449
 Odisha,39276,399
-Unknown,0,79
 Madhya Pradesh,31822,307
 Delhi,45181,421
 Telangana,29256,274
@@ -7310,14 +6775,12 @@ Puducherry,20828,117
 Jammu and Kashmir,25154,374
 Tripura,697,13
 Assam,25079,212
-Manipur,0,156
 Kerala,10589,169
 Chandigarh,14772,326
 Andhra Pradesh,9612,92
 Telangana,51358,481
 Tamil Nadu,43154,447
 Karnataka,705,7
-Unknown,0,361
 West Bengal,14244,142
 Gujarat,43027,458
 Tamil Nadu,43348,449
@@ -7327,7 +6790,6 @@ Chandigarh,2175,48
 Punjab region,1503,12
 Puducherry,76370,429
 Delhi,9551,89
-Unknown,0,258
 Telangana,8435,79
 Karnataka,25597,254
 Andhra Pradesh,32807,314
@@ -7352,7 +6814,6 @@ Delhi,52694,491
 Karnataka,705,7
 Odisha,19982,203
 Bihar,47254,439
-Unknown,0,247
 West Bengal,21065,210
 Andhra Pradesh,21523,206
 Punjab region,14024,112
@@ -7373,7 +6834,6 @@ Delhi,14166,132
 Bihar,11948,111
 Telangana,42816,401
 Odisha,44197,449
-Unknown,0,58
 Tamil Nadu,26356,273
 Delhi,25864,241
 Andhra Pradesh,51614,494
@@ -7395,14 +6855,12 @@ Karnataka,32651,324
 Andhra Pradesh,32912,315
 Maharashtra,22663,210
 Maharashtra,7770,72
-Unknown,0,226
 West Bengal,47447,473
 Madhya Pradesh,26639,257
 Maharashtra,2698,25
 West Bengal,5316,53
 Tamil Nadu,6179,64
 Andhra Pradesh,49002,469
-Unknown,0,183
 Tamil Nadu,36976,383
 Andhra Pradesh,6582,63
 Telangana,21995,206
@@ -7425,7 +6883,6 @@ Odisha,24313,247
 Delhi,11590,108
 Tamil Nadu,34176,354
 Madhya Pradesh,41565,401
-Unknown,0,242
 Punjab region,11270,90
 Chandigarh,14862,328
 Puducherry,51981,292
@@ -7444,7 +6901,6 @@ Maharashtra,14029,130
 Delhi,50762,473
 Punjab region,13523,108
 Karnataka,46558,462
-Unknown,0,137
 Bihar,37674,350
 Punjab region,52716,421
 West Bengal,29491,294
@@ -7460,13 +6916,10 @@ Haryana,12746,138
 Delhi,4722,44
 Bihar,9688,90
 Tamil Nadu,1159,12
-Unknown,0,252
 Maharashtra,23526,218
-Mizoram,0,331
 Punjab region,17781,142
 Kerala,18609,297
 Tripura,21988,410
-Manipur,0,370
 Assam,23305,197
 Chandigarh,7748,171
 Maharashtra,6043,56
@@ -7486,7 +6939,6 @@ Uttar Pradesh,13661,221
 Karnataka,4132,41
 West Bengal,22770,227
 Telangana,22636,212
-Unknown,0,245
 Maharashtra,2914,27
 Tamil Nadu,17088,177
 Odisha,3150,32
@@ -7541,7 +6993,6 @@ Tamil Nadu,5310,55
 Telangana,8969,84
 Bihar,5597,52
 Delhi,24791,231
-Unknown,0,22
 Punjab region,12396,99
 Delhi,36918,344
 Haryana,8128,88
@@ -7553,7 +7004,6 @@ Tamil Nadu,47402,491
 West Bengal,10232,102
 Maharashtra,7662,71
 Punjab region,44828,358
-Unknown,0,272
 West Bengal,23673,236
 Tamil Nadu,25004,259
 Karnataka,41217,409
@@ -7574,7 +7024,6 @@ Madhya Pradesh,24877,240
 Andhra Pradesh,48375,463
 Punjab region,7889,63
 Bihar,41334,384
-Unknown,0,160
 West Bengal,48751,486
 Karnataka,8163,81
 Andhra Pradesh,42524,407
@@ -7611,7 +7060,6 @@ Maharashtra,6259,58
 West Bengal,9630,96
 Andhra Pradesh,30822,295
 Telangana,34381,322
-Unknown,0,43
 Punjab region,31680,253
 Bihar,22282,207
 Odisha,9154,93
@@ -7640,7 +7088,6 @@ Bihar,16469,153
 Punjab region,53968,431
 Delhi,1073,10
 West Bengal,7624,76
-Unknown,0,107
 Tamil Nadu,17185,178
 Karnataka,4636,46
 Telangana,20501,192
@@ -7664,7 +7111,6 @@ Delhi,1181,11
 Karnataka,23984,238
 Maharashtra,16727,155
 Telangana,26693,250
-Unknown,0,317
 Bihar,27125,252
 Odisha,20770,211
 West Bengal,17855,178
@@ -7676,7 +7122,6 @@ Bihar,43379,403
 Haryana,17642,191
 Punjab region,33683,269
 Andhra Pradesh,29882,286
-Unknown,0,177
 Karnataka,29930,297
 Tamil Nadu,3089,32
 Telangana,37905,355
@@ -7695,14 +7140,12 @@ Maharashtra,39498,366
 Karnataka,5643,56
 Bihar,5813,54
 Punjab region,30177,241
-Unknown,0,190
 Madhya Pradesh,36797,355
 West Bengal,43334,432
 Karnataka,34868,346
 West Bengal,30594,305
 Odisha,26085,265
 Bihar,36705,341
-Unknown,0,301
 Punjab region,23916,191
 Madhya Pradesh,34517,333
 Andhra Pradesh,3552,34
@@ -7720,7 +7163,6 @@ Bihar,52529,488
 Punjab region,22539,180
 Delhi,7834,73
 Tamil Nadu,13806,143
-Unknown,0,454
 Delhi,21249,198
 West Bengal,45340,452
 Tamil Nadu,44892,465
@@ -7741,7 +7183,6 @@ Karnataka,17837,177
 Haryana,32974,357
 Bihar,13024,121
 West Bengal,26983,269
-Unknown,0,83
 Tamil Nadu,12744,132
 Andhra Pradesh,29882,286
 Tamil Nadu,13999,145
@@ -7798,11 +7239,9 @@ Gujarat,40679,433
 Delhi,44108,411
 Andhra Pradesh,42419,406
 Karnataka,19147,190
-Unknown,0,254
 Punjab region,62233,497
 Telangana,22743,213
 Bihar,36813,342
-Unknown,0,276
 Punjab region,29176,233
 West Bengal,40024,399
 Tamil Nadu,13999,145
@@ -7835,7 +7274,6 @@ Madhya Pradesh,18036,174
 Andhra Pradesh,627,6
 Karnataka,31845,316
 Maharashtra,13166,122
-Unknown,0,456
 West Bengal,4414,44
 Bihar,13132,122
 Karnataka,33860,336
@@ -7846,7 +7284,6 @@ West Bengal,29692,296
 Punjab region,3256,26
 Maharashtra,22015,204
 Tamil Nadu,42865,444
-Unknown,0,90
 Odisha,25495,259
 Punjab region,15151,121
 Tamil Nadu,18826,195
@@ -7858,7 +7295,6 @@ Odisha,37897,385
 Bihar,43379,403
 Punjab region,9767,78
 Madhya Pradesh,18865,182
-Unknown,0,366
 West Bengal,40124,400
 Karnataka,21264,211
 Maharashtra,44031,408
@@ -7897,10 +7333,8 @@ Telangana,17938,168
 Maharashtra,48671,451
 Madhya Pradesh,46230,446
 Maharashtra,33778,313
-Unknown,0,285
 Karnataka,12698,126
 Andhra Pradesh,22359,214
-Unknown,0,49
 Andhra Pradesh,32285,309
 Haryana,34545,374
 Delhi,50977,475
@@ -7922,7 +7356,6 @@ Bihar,33691,313
 West Bengal,10833,108
 Delhi,43357,404
 Odisha,27070,275
-Unknown,0,264
 Maharashtra,5612,52
 Bihar,7320,68
 Punjab region,20661,165
@@ -7941,7 +7374,6 @@ Bihar,14424,134
 West Bengal,36914,368
 Tamil Nadu,29252,303
 Andhra Pradesh,35001,335
-Unknown,0,373
 West Bengal,35209,351
 Bihar,52421,487
 Andhra Pradesh,33956,325
@@ -7966,18 +7398,15 @@ Odisha,9056,92
 Bihar,7104,66
 Delhi,34557,322
 Punjab region,28174,225
-Unknown,0,342
 Karnataka,46860,465
 Tamil Nadu,8110,84
 Karnataka,33054,328
-Unknown,0,142
 Telangana,27761,260
 Tamil Nadu,41706,432
 Andhra Pradesh,37613,360
 Andhra Pradesh,15777,151
 Maharashtra,6907,64
 Telangana,19646,184
-Unknown,0,410
 West Bengal,17153,171
 Delhi,50869,474
 Karnataka,13403,133
@@ -7994,10 +7423,8 @@ Madhya Pradesh,45815,442
 Telangana,12920,121
 Tamil Nadu,32149,333
 Maharashtra,44354,411
-Unknown,0,359
 Karnataka,34465,342
 Andhra Pradesh,18807,180
-Unknown,0,401
 Maharashtra,26548,246
 Madhya Pradesh,51620,498
 Madhya Pradesh,26950,260
@@ -8011,7 +7438,6 @@ Punjab region,36188,289
 West Bengal,2909,29
 Delhi,21786,203
 Punjab region,24668,197
-Unknown,0,7
 Telangana,52319,490
 Bihar,52421,487
 Odisha,18900,192
@@ -8036,7 +7462,6 @@ Telangana,21248,199
 Maharashtra,33994,315
 Haryana,3048,33
 Madhya Pradesh,21456,207
-Unknown,0,492
 Telangana,7581,71
 Andhra Pradesh,7732,74
 Karnataka,42124,418
@@ -8065,7 +7490,6 @@ Delhi,15883,148
 Tamil Nadu,35914,372
 Karnataka,42426,421
 Madhya Pradesh,11713,113
-Unknown,0,27
 Odisha,34354,349
 Tamil Nadu,5599,58
 Karnataka,20155,200
@@ -8073,7 +7497,6 @@ Bihar,5597,52
 Maharashtra,30109,279
 Odisha,34649,352
 Bihar,46285,430
-Unknown,0,480
 Delhi,40674,379
 Telangana,35662,334
 Punjab region,24042,192
@@ -8091,7 +7514,6 @@ West Bengal,31297,312
 Andhra Pradesh,41479,397
 Maharashtra,8094,75
 Odisha,12600,128
-Unknown,0,409
 Punjab region,23165,185
 Delhi,19317,180
 Telangana,23277,218
@@ -8107,7 +7529,6 @@ Delhi,31230,291
 Punjab region,6010,48
 Tamil Nadu,46437,481
 Odisha,10631,108
-Unknown,0,294
 Bihar,28955,269
 Telangana,30217,283
 Punjab region,5510,44
@@ -8132,7 +7553,6 @@ Karnataka,13504,134
 Odisha,39866,405
 Punjab region,32181,257
 Delhi,14381,134
-Unknown,0,348
 Madhya Pradesh,11402,110
 Karnataka,6651,66
 Bihar,14854,138
@@ -8152,7 +7572,6 @@ West Bengal,12137,121
 Punjab region,16779,134
 Delhi,9229,86
 Chandigarh,16267,359
-Unknown,0,482
 Tamil Nadu,14095,146
 West Bengal,17053,170
 Bihar,34768,323
@@ -8195,7 +7614,6 @@ Maharashtra,51045,473
 Haryana,29280,317
 Odisha,8859,90
 Punjab region,15276,122
-Unknown,0,381
 Madhya Pradesh,25706,248
 Andhra Pradesh,11911,114
 Karnataka,49279,489
@@ -8230,7 +7648,6 @@ Punjab region,17781,142
 Odisha,4626,47
 Karnataka,4434,44
 Madhya Pradesh,45919,443
-Unknown,0,215
 Bihar,20021,186
 Maharashtra,32807,304
 Madhya Pradesh,20627,199
@@ -8269,7 +7686,6 @@ Andhra Pradesh,10030,96
 Telangana,45058,422
 Karnataka,43333,430
 Maharashtra,18022,167
-Unknown,0,333
 Tamil Nadu,26260,272
 Andhra Pradesh,22046,211
 Telangana,38332,359
@@ -8287,7 +7703,6 @@ Tamil Nadu,19598,203
 Maharashtra,22339,207
 Karnataka,36984,367
 Punjab region,34059,272
-Unknown,0,267
 Madhya Pradesh,48718,470
 Haryana,4988,54
 Telangana,9610,90
@@ -8295,7 +7710,6 @@ Madhya Pradesh,34413,332
 Andhra Pradesh,18389,176
 Odisha,13781,140
 Bihar,34230,318
-Unknown,0,475
 Delhi,7190,67
 Delhi,46147,430
 Punjab region,17656,141
@@ -8304,7 +7718,6 @@ Maharashtra,15972,148
 Odisha,14470,147
 Bihar,42087,391
 West Bengal,5718,57
-Unknown,0,151
 Punjab region,61231,489
 Gujarat,23017,245
 Bihar,51344,477
@@ -8347,7 +7760,6 @@ Andhra Pradesh,22881,219
 Tamil Nadu,7627,79
 Bihar,39073,363
 Karnataka,30132,299
-Unknown,0,464
 Karnataka,40814,405
 Tamil Nadu,30314,314
 Delhi,39172,365
@@ -8355,7 +7767,6 @@ Karnataka,8667,86
 Maharashtra,20828,193
 Odisha,25987,264
 Bihar,36921,343
-Unknown,0,394
 Andhra Pradesh,30195,289
 Tamil Nadu,41803,433
 Punjab region,40069,320
@@ -8396,7 +7807,6 @@ West Bengal,8125,81
 Madhya Pradesh,39181,378
 Karnataka,31240,310
 Maharashtra,1511,14
-Unknown,0,259
 Tamil Nadu,29252,303
 Chandigarh,8519,188
 Delhi,30157,281
@@ -8414,7 +7824,6 @@ Bihar,48653,452
 Odisha,47249,480
 Bihar,44456,413
 West Bengal,25880,258
-Unknown,0,349
 Telangana,12813,120
 Andhra Pradesh,32389,310
 Punjab region,62233,497
@@ -8422,7 +7831,6 @@ Tamil Nadu,44410,460
 Delhi,30371,283
 Madhya Pradesh,5494,53
 Punjab region,41822,334
-Unknown,0,187
 Gujarat,39833,424
 Maharashtra,37016,343
 Tamil Nadu,48078,498
@@ -8483,7 +7891,6 @@ West Bengal,15448,154
 Delhi,29405,274
 Andhra Pradesh,21001,201
 Karnataka,17132,170
-Unknown,0,93
 Tamil Nadu,34852,361
 Telangana,13774,129
 Maharashtra,4856,45
@@ -8509,7 +7916,6 @@ Madhya Pradesh,37730,364
 Andhra Pradesh,27165,260
 Tamil Nadu,1738,18
 West Bengal,1906,19
-Unknown,0,447
 Punjab region,40195,321
 Delhi,53338,497
 Karnataka,25698,255
@@ -8523,7 +7929,6 @@ Tamil Nadu,13323,138
 Karnataka,27612,274
 Maharashtra,11547,107
 Telangana,53387,500
-Unknown,0,40
 Delhi,49260,459
 Madhya Pradesh,829,8
 Andhra Pradesh,11911,114
@@ -8531,7 +7936,6 @@ Telangana,24771,232
 Punjab region,50337,402
 Maharashtra,44786,415
 Tamil Nadu,15157,157
-Unknown,0,147
 Odisha,35437,360
 Karnataka,29124,289
 Karnataka,15419,153
@@ -8595,7 +7999,6 @@ West Bengal,28488,284
 Punjab region,37440,299
 Odisha,22345,227
 Maharashtra,26872,249
-Unknown,0,82
 Tamil Nadu,37652,390
 Maharashtra,50506,468
 Madhya Pradesh,26328,254
@@ -8617,7 +8020,6 @@ Karnataka,6853,68
 Delhi,50440,470
 Haryana,44150,478
 West Bengal,17855,178
-Unknown,0,237
 Punjab region,44953,359
 West Bengal,29692,296
 Madhya Pradesh,32859,317
@@ -8653,7 +8055,6 @@ Maharashtra,13274,123
 Karnataka,32651,324
 Telangana,25519,239
 Bihar,29493,274
-Unknown,0,345
 Tamil Nadu,30700,318
 Odisha,47741,485
 Bihar,6028,56
@@ -8661,13 +8062,11 @@ West Bengal,25278,252
 Karnataka,15721,156
 Haryana,8959,97
 Delhi,19747,184
-Unknown,0,487
 Karnataka,46054,457
 Andhra Pradesh,20792,199
 Bihar,32077,298
 Maharashtra,3022,28
 Odisha,19589,199
-Unknown,0,182
 Punjab region,54469,435
 West Bengal,32400,323
 Delhi,36918,344
@@ -8680,7 +8079,6 @@ Madhya Pradesh,34413,332
 Odisha,29924,304
 Bihar,50376,468
 Madhya Pradesh,45297,437
-Unknown,0,364
 Karnataka,15822,157
 Telangana,25626,240
 Andhra Pradesh,11180,107
@@ -8695,7 +8093,6 @@ Delhi,42176,393
 West Bengal,19661,196
 Odisha,39276,399
 Andhra Pradesh,38449,368
-Unknown,0,119
 Bihar,52206,485
 Punjab region,26546,212
 West Bengal,49051,489
@@ -8725,7 +8122,6 @@ Karnataka,32550,323
 Delhi,26830,250
 Maharashtra,34642,321
 Maharashtra,11008,102
-Unknown,0,439
 Madhya Pradesh,46334,447
 Telangana,48155,451
 Tamil Nadu,32921,341
@@ -8738,7 +8134,6 @@ Bihar,37459,348
 Madhya Pradesh,10262,99
 Karnataka,12798,127
 Maharashtra,47376,439
-Unknown,0,60
 Punjab region,35937,287
 West Bengal,10633,106
 Delhi,15454,144
@@ -8783,10 +8178,8 @@ Bihar,45747,425
 Delhi,30693,286
 Andhra Pradesh,38867,372
 Odisha,36815,374
-Unknown,0,49
 West Bengal,40325,402
 West Bengal,47045,469
-Unknown,0,216
 Andhra Pradesh,4493,43
 Madhya Pradesh,40218,388
 Punjab region,5384,43
@@ -8810,7 +8203,6 @@ Karnataka,24085,239
 Andhra Pradesh,3239,31
 Bihar,13240,123
 Haryana,23461,254
-Unknown,0,428
 Andhra Pradesh,10030,96
 Punjab region,25795,206
 Odisha,47150,479
@@ -8827,7 +8219,6 @@ West Bengal,18056,180
 Punjab region,35937,287
 West Bengal,17554,175
 Bihar,51344,477
-Unknown,0,41
 Telangana,35235,330
 Karnataka,33558,333
 Andhra Pradesh,34897,334
@@ -8842,7 +8233,6 @@ Delhi,20391,190
 Madhya Pradesh,5390,52
 Andhra Pradesh,1881,18
 Delhi,23074,215
-Unknown,0,465
 West Bengal,39021,389
 Bihar,5920,55
 Odisha,8761,89
@@ -8875,7 +8265,6 @@ Andhra Pradesh,14941,143
 Madhya Pradesh,46334,447
 Maharashtra,14677,136
 Delhi,17922,167
-Unknown,0,119
 Telangana,5232,49
 Punjab region,30929,247
 Tamil Nadu,28480,295
@@ -8887,14 +8276,12 @@ Delhi,23610,220
 Karnataka,29729,295
 West Bengal,7724,77
 Odisha,9647,98
-Unknown,0,188
 Tamil Nadu,290,3
 Punjab region,35812,286
 Delhi,18137,169
 Madhya Pradesh,6012,58
 Andhra Pradesh,43987,421
 Maharashtra,17483,162
-Unknown,0,449
 Telangana,4912,46
 Bihar,1184,11
 Odisha,27956,284
@@ -8907,10 +8294,8 @@ Punjab region,38066,304
 Telangana,13026,122
 Delhi,30157,281
 West Bengal,41027,409
-Unknown,0,4
 Bihar,5274,49
 Odisha,30613,311
-Unknown,0,425
 West Bengal,40826,407
 Andhra Pradesh,22463,215
 Tamil Nadu,24232,251
@@ -8921,7 +8306,6 @@ Punjab region,7889,63
 Delhi,7834,73
 Delhi,2790,26
 Andhra Pradesh,24867,238
-Unknown,0,407
 Madhya Pradesh,9433,91
 Maharashtra,1943,18
 Bihar,29924,278
@@ -8983,10 +8367,8 @@ Madhya Pradesh,7049,68
 Karnataka,26302,261
 Andhra Pradesh,18180,174
 West Bengal,38218,381
-Unknown,0,306
 Maharashtra,9281,86
 Telangana,34701,325
-Unknown,0,476
 Maharashtra,9821,91
 Tamil Nadu,47113,488
 Madhya Pradesh,40011,386
@@ -9016,7 +8398,6 @@ Madhya Pradesh,15445,149
 Maharashtra,28275,262
 West Bengal,21667,216
 Punjab region,27673,221
-Unknown,0,51
 Delhi,25649,239
 Maharashtra,35505,329
 Tamil Nadu,1352,14
@@ -9032,7 +8413,6 @@ Bihar,40903,380
 Delhi,43250,403
 Gujarat,28654,305
 Bihar,11733,109
-Unknown,0,223
 Odisha,28152,286
 Karnataka,6248,62
 Maharashtra,34750,322
@@ -9051,7 +8431,6 @@ Madhya Pradesh,14926,144
 Andhra Pradesh,19538,187
 Bihar,5490,51
 Andhra Pradesh,4075,39
-Unknown,0,101
 Madhya Pradesh,38352,370
 Maharashtra,8310,77
 Tamil Nadu,16509,171
@@ -9063,7 +8442,6 @@ Karnataka,3023,30
 Delhi,29942,279
 Tamil Nadu,14674,152
 Bihar,52098,484
-Unknown,0,460
 Punjab region,10017,80
 Madhya Pradesh,46437,448
 Andhra Pradesh,14105,135
@@ -9092,7 +8470,6 @@ West Bengal,15448,154
 Bihar,108,1
 Odisha,46166,469
 Odisha,25396,258
-Unknown,0,161
 West Bengal,33203,331
 Punjab region,22163,177
 Madhya Pradesh,50272,485
@@ -9107,8 +8484,6 @@ Bihar,47362,440
 Punjab region,20911,167
 Karnataka,43132,428
 West Bengal,6821,68
-Unknown,0,341
-Unknown,0,44
 Tamil Nadu,23074,239
 Bihar,16469,153
 Telangana,12386,116
@@ -9125,7 +8500,6 @@ Telangana,50504,473
 Andhra Pradesh,10762,103
 Bihar,35952,334
 Odisha,44985,457
-Unknown,0,373
 Delhi,7298,68
 Punjab region,6762,54
 Bihar,33153,308
@@ -9143,10 +8517,8 @@ Karnataka,47364,470
 Maharashtra,28059,260
 Odisha,31204,317
 West Bengal,11837,118
-Unknown,0,323
 West Bengal,36814,367
 Punjab region,38817,310
-Unknown,0,148
 Delhi,27474,256
 Tamil Nadu,45954,476
 Karnataka,5442,54
@@ -9156,7 +8528,6 @@ Telangana,50931,477
 West Bengal,9730,97
 Madhya Pradesh,23322,225
 Punjab region,14400,115
-Unknown,0,146
 Telangana,107,1
 Telangana,38545,361
 Punjab region,31054,248
@@ -9168,7 +8539,6 @@ Maharashtra,30325,281
 Andhra Pradesh,11911,114
 Tamil Nadu,40258,417
 Karnataka,27310,271
-Unknown,0,223
 Bihar,40473,376
 Uttar Pradesh,14156,229
 Gujarat,31754,338
@@ -9231,7 +8601,6 @@ Maharashtra,41009,380
 Tamil Nadu,9268,96
 Gujarat,26775,285
 Odisha,4922,50
-Unknown,0,269
 Punjab region,6511,52
 West Bengal,43534,434
 Tamil Nadu,11489,119
@@ -9246,7 +8615,6 @@ Andhra Pradesh,3761,36
 Karnataka,29829,296
 Telangana,34061,319
 West Bengal,7122,71
-Unknown,0,271
 Uttar Pradesh,17494,283
 Bihar,12379,115
 Telangana,19006,178
@@ -9263,19 +8631,16 @@ Karnataka,4736,47
 Punjab region,9016,72
 Bihar,12702,118
 Delhi,7942,74
-Unknown,0,255
 Telangana,18152,170
 Andhra Pradesh,39912,382
 Odisha,32976,335
 Maharashtra,29138,270
 Telangana,214,2
-Unknown,0,182
 Madhya Pradesh,311,3
 Punjab region,20410,163
 West Bengal,24676,246
 Delhi,12449,116
 Madhya Pradesh,35346,341
-Unknown,0,395
 Andhra Pradesh,47330,453
 Odisha,37504,381
 Tamil Nadu,18247,189
@@ -9315,12 +8680,10 @@ Karnataka,1713,17
 Tamil Nadu,29252,303
 Andhra Pradesh,41166,394
 Telangana,46233,433
-Unknown,0,438
 Madhya Pradesh,30993,299
 Maharashtra,32375,300
 Tamil Nadu,42189,437
 Telangana,43457,407
-Unknown,0,394
 Andhra Pradesh,26852,257
 Madhya Pradesh,40529,391
 Telangana,21995,206
@@ -9333,7 +8696,6 @@ Punjab region,20160,161
 Madhya Pradesh,6530,63
 Maharashtra,16080,149
 Karnataka,22977,228
-Unknown,0,183
 West Bengal,3812,38
 Uttar Pradesh,4574,74
 Delhi,31874,297
@@ -9349,7 +8711,6 @@ Telangana,8969,84
 Andhra Pradesh,40434,387
 Karnataka,27713,275
 Tamil Nadu,23363,242
-Unknown,0,110
 Bihar,49192,457
 Punjab region,38692,309
 West Bengal,18959,189
@@ -9382,7 +8743,6 @@ Punjab region,26922,215
 Karnataka,5946,59
 Delhi,42176,393
 Andhra Pradesh,26956,258
-Unknown,0,26
 Telangana,45486,426
 Andhra Pradesh,11388,109
 Delhi,14488,135
@@ -9395,14 +8755,12 @@ Bihar,51560,479
 Delhi,28976,270
 Telangana,47407,444
 West Bengal,4012,40
-Unknown,0,226
 Karnataka,33054,328
 Punjab region,41322,330
 Odisha,5217,53
 Delhi,50118,467
 West Bengal,11134,111
 Uttar Pradesh,22933,371
-Unknown,0,111
 Odisha,32287,328
 Bihar,2476,23
 Punjab region,24042,192
@@ -9452,7 +8810,6 @@ Punjab region,51088,408
 Andhra Pradesh,3030,29
 Andhra Pradesh,15777,151
 Uttar Pradesh,6923,112
-Unknown,0,129
 Bihar,45747,425
 Telangana,4164,39
 Delhi,32947,307
@@ -9463,13 +8820,11 @@ Andhra Pradesh,33016,316
 Delhi,51728,482
 Odisha,27267,277
 Delhi,48723,454
-Unknown,0,59
 Telangana,49756,466
 Andhra Pradesh,20269,194
 Karnataka,8566,85
 Odisha,33566,341
 Punjab region,13023,104
-Unknown,0,315
 Tamil Nadu,20274,210
 West Bengal,8526,85
 Bihar,39396,366
@@ -9504,7 +8859,6 @@ Odisha,29531,300
 Tamil Nadu,12068,125
 Karnataka,11488,114
 Tamil Nadu,9075,94
-Unknown,0,215
 West Bengal,45541,454
 Andhra Pradesh,22255,213
 Bihar,44456,413
@@ -9513,7 +8867,6 @@ Maharashtra,36908,342
 Andhra Pradesh,33643,322
 Delhi,38528,359
 Telangana,5979,56
-Unknown,0,14
 Punjab region,58852,470
 West Bengal,28388,283
 West Bengal,22469,224
@@ -9538,7 +8891,6 @@ Punjab region,51840,414
 Andhra Pradesh,17866,171
 West Bengal,100,1
 Karnataka,48876,485
-Unknown,0,7
 Telangana,5339,50
 Bihar,39289,365
 Odisha,14076,143
@@ -9546,7 +8898,6 @@ Karnataka,31946,317
 West Bengal,13542,135
 Delhi,11376,106
 Telangana,6940,65
-Unknown,0,78
 Punjab region,42949,343
 Delhi,30586,285
 Gujarat,42558,453
@@ -9557,7 +8908,6 @@ Odisha,30220,307
 Odisha,45182,459
 Bihar,27341,254
 Madhya Pradesh,1037,10
-Unknown,0,491
 Punjab region,54845,438
 Delhi,16205,151
 West Bengal,45842,457
@@ -9574,7 +8924,6 @@ Telangana,34488,323
 Delhi,4615,43
 West Bengal,502,5
 Karnataka,48271,479
-Unknown,0,175
 Madhya Pradesh,39285,379
 Punjab region,44202,353
 Madhya Pradesh,27676,267
@@ -9591,7 +8940,6 @@ Andhra Pradesh,36046,345
 Maharashtra,29246,271
 Bihar,13563,126
 Madhya Pradesh,37523,362
-Unknown,0,256
 West Bengal,39823,397
 Delhi,19854,185
 Punjab region,40570,324
@@ -9619,20 +8967,17 @@ West Bengal,6219,62
 Uttar Pradesh,11374,184
 Tamil Nadu,31087,322
 Delhi,10517,98
-Unknown,0,39
 Telangana,14842,139
 Andhra Pradesh,27270,261
 West Bengal,41929,418
 Punjab region,17280,138
 Maharashtra,47916,444
 Tamil Nadu,869,9
-Unknown,0,271
 Maharashtra,43275,401
 Karnataka,31240,310
 Bihar,42949,399
 Telangana,13347,125
 Odisha,7383,75
-Unknown,0,125
 Delhi,53016,494
 West Bengal,7724,77
 Madhya Pradesh,31200,301
@@ -9644,7 +8989,6 @@ Madhya Pradesh,9847,95
 Karnataka,17636,175
 Karnataka,8767,87
 Madhya Pradesh,43328,418
-Unknown,0,110
 Karnataka,31946,317
 Telangana,25626,240
 Punjab region,42198,337
@@ -9661,7 +9005,6 @@ Tamil Nadu,18826,195
 Andhra Pradesh,39703,380
 Bihar,49192,457
 Delhi,38528,359
-Unknown,0,348
 West Bengal,13843,138
 Tamil Nadu,45182,468
 Bihar,3014,28
@@ -9675,7 +9018,6 @@ Tamil Nadu,16702,173
 Delhi,34235,319
 West Bengal,26783,267
 Madhya Pradesh,15963,154
-Unknown,0,446
 Tamil Nadu,7627,79
 Maharashtra,44462,412
 Karnataka,20760,206
@@ -9683,7 +9025,6 @@ Maharashtra,19749,183
 Bihar,14531,135
 Odisha,48135,489
 Madhya Pradesh,32237,311
-Unknown,0,383
 West Bengal,38619,385
 Delhi,11805,110
 Punjab region,48835,390
@@ -9709,7 +9050,6 @@ Madhya Pradesh,25084,242
 Tamil Nadu,23653,245
 Uttar Pradesh,1360,22
 West Bengal,34406,343
-Unknown,0,214
 Delhi,31445,293
 Bihar,47900,445
 Gujarat,46128,491
@@ -9726,14 +9066,12 @@ Tamil Nadu,38134,395
 Andhra Pradesh,15986,153
 Telangana,8115,76
 Karnataka,504,5
-Unknown,0,374
 Delhi,51835,483
 Odisha,2264,23
 Telangana,25305,237
 Odisha,33271,338
 Bihar,9903,92
 Punjab region,35436,283
-Unknown,0,415
 Andhra Pradesh,17344,166
 West Bengal,25780,257
 Madhya Pradesh,17621,170
@@ -9744,7 +9082,6 @@ Odisha,24707,251
 Punjab region,50462,403
 Punjab region,35186,281
 Telangana,24131,226
-Unknown,0,142
 Karnataka,29225,290
 Andhra Pradesh,1463,14
 Bihar,48331,449
@@ -9783,7 +9120,6 @@ Maharashtra,22231,206
 West Bengal,1304,13
 Tamil Nadu,43541,451
 Madhya Pradesh,46230,446
-Unknown,0,485
 Bihar,27018,251
 Uttar Pradesh,124,2
 Gujarat,18038,192
@@ -9801,7 +9137,6 @@ Andhra Pradesh,27792,266
 Karnataka,44341,440
 Telangana,10891,102
 Odisha,36815,374
-Unknown,0,297
 Bihar,2368,22
 West Bengal,15548,155
 Delhi,22108,206
@@ -9824,7 +9159,6 @@ Bihar,30139,280
 Andhra Pradesh,20583,197
 Uttar Pradesh,1236,20
 West Bengal,10533,105
-Unknown,0,100
 Tamil Nadu,41224,427
 Delhi,45396,423
 Tamil Nadu,34466,357
@@ -9834,7 +9168,6 @@ Madhya Pradesh,23011,222
 Maharashtra,9821,91
 Delhi,29513,275
 West Bengal,14946,149
-Unknown,0,465
 Maharashtra,12519,116
 Telangana,45486,426
 Punjab region,50963,407
@@ -9867,9 +9200,7 @@ Bihar,22927,213
 Madhya Pradesh,46852,452
 Telangana,10143,95
 Tamil Nadu,44023,456
-Unknown,0,231
 Tamil Nadu,1255,13
-Unknown,0,247
 Madhya Pradesh,37316,360
 Maharashtra,13706,127
 Telangana,8435,79
@@ -9885,7 +9216,6 @@ Andhra Pradesh,10553,101
 Punjab region,38442,307
 Madhya Pradesh,20213,195
 Delhi,33591,313
-Unknown,0,361
 Maharashtra,52017,482
 Karnataka,31946,317
 West Bengal,33303,332
@@ -9908,7 +9238,6 @@ Andhra Pradesh,36360,348
 Tamil Nadu,38714,401
 Maharashtra,37124,344
 Bihar,6997,65
-Unknown,0,35
 Karnataka,17233,171
 Bihar,2045,19
 Maharashtra,53959,500
@@ -9916,7 +9245,6 @@ Odisha,36716,373
 Bihar,24219,225
 Punjab region,7012,56
 Karnataka,36178,359
-Unknown,0,310
 Madhya Pradesh,50480,487
 Andhra Pradesh,27897,267
 Telangana,10250,96
@@ -9928,7 +9256,6 @@ Odisha,19982,203
 Bihar,47792,444
 West Bengal,30193,301
 Punjab region,38567,308
-Unknown,0,327
 Delhi,215,2
 Telangana,11104,104
 Tamil Nadu,5020,52
@@ -9943,7 +9270,6 @@ Odisha,12993,132
 Bihar,8073,75
 Delhi,52586,490
 Telangana,37157,348
-Unknown,0,430
 Madhya Pradesh,24566,237
 West Bengal,25579,255
 Punjab region,32807,262
@@ -9951,7 +9277,6 @@ Gujarat,3288,35
 Maharashtra,31728,294
 Andhra Pradesh,32180,308
 Tamil Nadu,43444,450
-Unknown,0,133
 West Bengal,28287,282
 Karnataka,47667,473
 Delhi,1610,15
@@ -9961,7 +9286,6 @@ Maharashtra,35397,328
 Odisha,13486,137
 Bihar,11302,105
 Telangana,41748,391
-Unknown,0,182
 Andhra Pradesh,43046,412
 West Bengal,39422,393
 Punjab region,57600,460
@@ -9985,9 +9309,7 @@ Maharashtra,19209,178
 Odisha,28743,292
 Bihar,5597,52
 Punjab region,48083,384
-Unknown,0,318
 Punjab region,3256,26
-Unknown,0,257
 Tamil Nadu,21336,221
 Telangana,41962,393
 West Bengal,46845,467
@@ -10016,7 +9338,6 @@ Tamil Nadu,18536,192
 Delhi,7405,69
 Punjab region,25669,205
 West Bengal,1204,12
-Unknown,0,183
 Maharashtra,48132,446
 Telangana,31391,294
 Madhya Pradesh,27572,266
@@ -10038,7 +9359,6 @@ Karnataka,28721,285
 Tamil Nadu,41996,435
 Telangana,46446,435
 Maharashtra,27735,257
-Unknown,0,86
 Andhra Pradesh,1254,12
 Madhya Pradesh,6219,60
 Delhi,53445,498
@@ -10061,7 +9381,6 @@ Telangana,12065,113
 West Bengal,23874,238
 Punjab region,23791,190
 Delhi,9337,87
-Unknown,0,460
 Tamil Nadu,13806,143
 Karnataka,48070,477
 Andhra Pradesh,7000,67
@@ -10073,12 +9392,10 @@ Madhya Pradesh,34724,335
 Maharashtra,13921,129
 Telangana,30858,289
 Punjab region,60605,484
-Unknown,0,329
 Bihar,19375,180
 Karnataka,30333,301
 Madhya Pradesh,31407,303
 Andhra Pradesh,29046,278
-Unknown,0,24
 Telangana,9716,91
 Tamil Nadu,48271,500
 Maharashtra,17483,162
@@ -10086,7 +9403,6 @@ West Bengal,10031,100
 Bihar,40150,373
 Bihar,40580,377
 Andhra Pradesh,39703,380
-Unknown,0,96
 Uttar Pradesh,17246,279
 Andhra Pradesh,48061,460
 Maharashtra,31728,294
@@ -10097,14 +9413,12 @@ Maharashtra,4856,45
 West Bengal,42632,425
 Madhya Pradesh,29438,284
 Delhi,24898,232
-Unknown,0,283
 Bihar,3767,35
 Karnataka,28822,286
 Tamil Nadu,44796,464
 Andhra Pradesh,12747,122
 Punjab region,12647,101
 Odisha,31795,323
-Unknown,0,309
 Telangana,37371,350
 Madhya Pradesh,32444,313
 Odisha,4134,42
@@ -10141,7 +9455,6 @@ Karnataka,11488,114
 Odisha,5611,57
 Telangana,22102,207
 West Bengal,8125,81
-Unknown,0,88
 Gujarat,34948,372
 Karnataka,34566,343
 Madhya Pradesh,29127,281
@@ -10166,7 +9479,6 @@ Tamil Nadu,12937,134
 Bihar,46501,432
 West Bengal,46343,462
 Odisha,30023,305
-Unknown,0,220
 Bihar,13455,125
 Punjab region,29050,232
 Karnataka,37589,373
@@ -10178,7 +9490,6 @@ Telangana,10677,100
 Delhi,19317,180
 Karnataka,9473,94
 Andhra Pradesh,16508,158
-Unknown,0,235
 Punjab region,29050,232
 Madhya Pradesh,26847,259
 West Bengal,5316,53
@@ -10191,7 +9502,6 @@ Delhi,50762,473
 Telangana,53387,500
 Gujarat,33163,353
 Tamil Nadu,8110,84
-Unknown,0,210
 Telangana,12065,113
 Delhi,5473,51
 Maharashtra,34426,319
@@ -10225,7 +9535,6 @@ Punjab region,7638,61
 Tamil Nadu,9944,103
 Telangana,19006,178
 Maharashtra,30217,280
-Unknown,0,235
 Bihar,49838,463
 Andhra Pradesh,36673,351
 West Bengal,10432,104
@@ -10234,7 +9543,6 @@ Delhi,14488,135
 Madhya Pradesh,33895,327
 Andhra Pradesh,6791,65
 Delhi,40245,375
-Unknown,0,416
 Uttar Pradesh,6429,104
 Tamil Nadu,43444,450
 Karnataka,24488,243
@@ -10262,7 +9570,6 @@ Maharashtra,23202,215
 West Bengal,17253,172
 Delhi,26401,246
 Karnataka,26806,266
-Unknown,0,341
 Madhya Pradesh,21146,204
 Telangana,19112,179
 Punjab region,23165,185
@@ -10278,12 +9585,10 @@ West Bengal,43835,437
 Delhi,29513,275
 Punjab region,26796,214
 Tamil Nadu,48175,499
-Unknown,0,489
 West Bengal,28187,281
 Madhya Pradesh,39181,378
 Karnataka,7860,78
 Telangana,20394,191
-Unknown,0,357
 Tamil Nadu,35335,366
 Maharashtra,39066,362
 Madhya Pradesh,50791,490
@@ -10341,8 +9646,6 @@ Andhra Pradesh,2925,28
 Telangana,854,8
 Bihar,28848,268
 Bihar,50591,470
-Unknown,0,49
-Unknown,0,100
 Odisha,7087,72
 Delhi,23396,218
 Punjab region,28925,231
@@ -10368,7 +9671,6 @@ Maharashtra,17159,159
 Karnataka,41217,409
 Gujarat,21983,234
 Haryana,44520,482
-Unknown,0,28
 Odisha,48036,488
 Delhi,11912,111
 Punjab region,12271,98
@@ -10397,7 +9699,6 @@ Gujarat,28278,301
 Delhi,30908,288
 Telangana,17938,168
 Bihar,3875,36
-Unknown,0,114
 West Bengal,39221,391
 Delhi,45396,423
 Bihar,32938,306
@@ -10413,7 +9714,6 @@ Tamil Nadu,30121,312
 Telangana,33420,313
 Andhra Pradesh,43987,421
 Bihar,431,4
-Unknown,0,302
 West Bengal,9329,93
 Odisha,42918,436
 Bihar,31646,294
@@ -10424,7 +9724,6 @@ Telangana,38011,356
 Karnataka,504,5
 Gujarat,38706,412
 Madhya Pradesh,13890,134
-Unknown,0,291
 Bihar,51022,474
 Delhi,1824,17
 Telangana,854,8
@@ -10454,11 +9753,9 @@ West Bengal,33403,333
 Haryana,4711,51
 Karnataka,23481,233
 Punjab region,24668,197
-Unknown,0,402
 Tamil Nadu,6468,67
 Tamil Nadu,27032,280
 Odisha,19195,195
-Unknown,0,342
 Andhra Pradesh,12433,119
 West Bengal,18457,184
 Punjab region,31805,254
@@ -10491,7 +9788,6 @@ Delhi,50333,469
 Punjab region,51715,413
 West Bengal,16150,161
 Delhi,52694,491
-Unknown,0,271
 Karnataka,50186,498
 Maharashtra,25792,239
 Madhya Pradesh,23841,230
@@ -10506,10 +9802,8 @@ Karnataka,14209,141
 Odisha,32779,333
 West Bengal,45741,456
 Bihar,40473,376
-Unknown,0,125
 Odisha,35043,356
 Telangana,50504,473
-Unknown,0,481
 Andhra Pradesh,35315,338
 Madhya Pradesh,39700,383
 Delhi,48830,455
@@ -10521,7 +9815,6 @@ Bihar,50268,467
 Telangana,45165,423
 Maharashtra,40577,376
 Delhi,107,1
-Unknown,0,43
 West Bengal,5015,50
 Punjab region,21412,171
 Telangana,42923,402
@@ -10569,7 +9862,6 @@ Gujarat,36733,391
 Maharashtra,2806,26
 Bihar,44348,412
 West Bengal,25780,257
-Unknown,0,433
 Odisha,25101,255
 Madhya Pradesh,18036,174
 Andhra Pradesh,26747,256
@@ -10601,7 +9893,6 @@ Maharashtra,52340,485
 Punjab region,22414,179
 Haryana,34914,378
 Karnataka,31039,308
-Unknown,0,57
 Telangana,49543,464
 Gujarat,35606,379
 Bihar,1399,13
@@ -10620,7 +9911,6 @@ Bihar,14531,135
 Delhi,429,4
 Punjab region,12772,102
 West Bengal,5517,55
-Unknown,0,202
 Odisha,29038,295
 Madhya Pradesh,43431,419
 Odisha,16045,163
@@ -10659,7 +9949,6 @@ Tamil Nadu,9365,97
 Uttar Pradesh,28682,464
 West Bengal,3511,35
 Gujarat,8643,92
-Unknown,0,170
 Odisha,18998,193
 Punjab region,26922,215
 Madhya Pradesh,40944,395
@@ -10701,7 +9990,6 @@ Karnataka,19248,191
 Delhi,6332,59
 Bihar,18084,168
 Odisha,43607,443
-Unknown,0,52
 Punjab region,7137,57
 Odisha,37405,380
 West Bengal,702,7
@@ -10719,7 +10007,6 @@ Karnataka,17031,169
 West Bengal,48450,483
 Haryana,41472,449
 Maharashtra,12950,120
-Unknown,0,379
 Bihar,49084,456
 Punjab region,52215,417
 Delhi,2468,23
@@ -10734,7 +10021,6 @@ Madhya Pradesh,20835,201
 Telangana,47301,443
 West Bengal,10432,104
 Tamil Nadu,9461,98
-Unknown,0,235
 Gujarat,12495,133
 Madhya Pradesh,4561,44
 Delhi,39172,365
@@ -10743,7 +10029,6 @@ West Bengal,47647,475
 Telangana,19006,178
 Punjab region,3256,26
 Haryana,10714,116
-Unknown,0,211
 Delhi,18459,172
 Odisha,15454,157
 Karnataka,47667,473
@@ -10753,7 +10038,6 @@ West Bengal,9128,91
 West Bengal,27886,278
 Gujarat,3758,40
 Karnataka,24992,248
-Unknown,0,184
 Maharashtra,2806,26
 Tamil Nadu,33500,347
 Madhya Pradesh,4561,44
@@ -10769,7 +10053,6 @@ Karnataka,35170,349
 Tamil Nadu,2124,22
 Punjab region,27422,219
 Odisha,27365,278
-Unknown,0,332
 Andhra Pradesh,19434,186
 Delhi,33698,314
 West Bengal,32601,325
@@ -10817,7 +10100,6 @@ Odisha,27463,279
 Maharashtra,26440,245
 West Bengal,19360,193
 West Bengal,42130,420
-Goa,0,5
 Chhattisgarh,24155,227
 Karnataka,28015,278
 Madhya Pradesh,23944,231
@@ -10830,9 +10112,7 @@ Tamil Nadu,47595,493
 Uttar Pradesh,13414,217
 Andhra Pradesh,16195,155
 Bihar,21851,203
-Unknown,0,351
 Madhya Pradesh,39285,379
-Unknown,0,361
 Gujarat,25741,274
 Punjab region,13398,107
 Bihar,9580,89
@@ -10844,7 +10124,6 @@ Andhra Pradesh,6164,59
 Haryana,41102,445
 Maharashtra,45973,426
 Madhya Pradesh,18347,177
-Unknown,0,394
 Tamil Nadu,23653,245
 Tamil Nadu,38714,401
 Gujarat,31566,336
@@ -10854,7 +10133,6 @@ Telangana,1602,15
 Jharkhand,26975,454
 Tamil Nadu,37652,390
 Rajasthan,38379,431
-Unknown,0,446
 Odisha,34748,353
 West Bengal,20764,207
 Delhi,3327,31
@@ -10886,15 +10164,10 @@ Bihar,40796,379
 Assam,30758,260
 Chandigarh,6389,141
 Jammu and Kashmir,14998,223
-Himachal Pradesh,0,317
-Goa,0,459
-Dadra and Nagar Haveli,0,472
 Tripura,3111,58
-Meghalaya,0,154
 Madhya Pradesh,23944,231
 Maharashtra,4425,41
 Karnataka,1713,17
-Unknown,0,462
 Uttar Pradesh,22748,368
 Delhi,43357,404
 Delhi,44108,411
@@ -10918,7 +10191,6 @@ Gujarat,12871,137
 Andhra Pradesh,24031,230
 West Bengal,19560,195
 Bihar,21098,196
-Unknown,0,53
 Punjab region,1127,9
 Odisha,25888,263
 Delhi,4722,44
@@ -10942,12 +10214,8 @@ Delhi,23825,222
 Odisha,26577,270
 Tamil Nadu,676,7
 Odisha,17817,181
-Himachal Pradesh,0,207
-Goa,0,150
 Jammu and Kashmir,23674,352
-Dadra and Nagar Haveli,0,227
 Madhya Pradesh,34102,329
-Unknown,0,383
 Karnataka,33357,331
 West Bengal,2708,27
 Delhi,28547,266
@@ -10960,7 +10228,6 @@ West Bengal,3310,33
 Delhi,19747,184
 Madhya Pradesh,30267,292
 Maharashtra,8633,80
-Unknown,0,484
 Telangana,18685,175
 Andhra Pradesh,43987,421
 Tamil Nadu,386,4
@@ -10988,12 +10255,10 @@ Punjab region,58852,470
 Telangana,23063,216
 Tamil Nadu,37555,389
 Tamil Nadu,28673,297
-Unknown,0,63
 Uttarakhand,28889,380
 Haryana,14871,161
 Delhi,42928,400
 Uttar Pradesh,4883,79
-Unknown,0,103
 Karnataka,43736,434
 Haryana,8682,94
 Karnataka,49884,495
@@ -11021,13 +10286,11 @@ Odisha,30909,314
 Karnataka,25395,252
 Delhi,16849,157
 Maharashtra,39498,366
-Goa,0,266
 Telangana,3310,31
 Madhya Pradesh,47992,463
 Punjab region,46831,374
 Andhra Pradesh,42210,404
 Bihar,22497,209
-Unknown,0,289
 West Bengal,11335,113
 Odisha,25692,261
 Assam,57375,485
@@ -11043,7 +10306,6 @@ Karnataka,23581,234
 Andhra Pradesh,51509,493
 Delhi,34128,318
 Delhi,35415,330
-Himachal Pradesh,0,74
 Odisha,9647,98
 Madhya Pradesh,47059,454
 Chhattisgarh,19047,179
@@ -11065,7 +10327,6 @@ Telangana,42496,398
 Tamil Nadu,97,1
 West Bengal,18858,188
 Odisha,1280,13
-Unknown,0,453
 Bihar,41442,385
 Delhi,50869,474
 Maharashtra,49966,463
@@ -11083,7 +10344,6 @@ Telangana,24771,232
 Delhi,23610,220
 Madhya Pradesh,49132,474
 Tamil Nadu,8785,91
-Unknown,0,288
 Madhya Pradesh,15030,145
 Gujarat,22641,241
 Bihar,44348,412
@@ -11120,14 +10380,12 @@ Maharashtra,28922,268
 Tamil Nadu,41803,433
 Madhya Pradesh,46334,447
 Bihar,43594,405
-Unknown,0,273
 Andhra Pradesh,1358,13
 Delhi,30586,285
 Telangana,52853,495
 Madhya Pradesh,47785,461
 Madhya Pradesh,42291,408
 Tamil Nadu,34562,358
-Unknown,0,490
 Punjab region,42449,339
 Telangana,3951,37
 Karnataka,15015,149
@@ -11138,7 +10396,6 @@ Gujarat,13152,140
 Telangana,1708,16
 Maharashtra,1943,18
 Telangana,35022,328
-Unknown,0,463
 Bihar,5597,52
 Punjab region,15652,125
 Uttar Pradesh,19163,310
@@ -11157,7 +10414,6 @@ Gujarat,11555,123
 Andhra Pradesh,45136,432
 Odisha,40654,413
 Andhra Pradesh,39494,378
-Unknown,0,22
 West Bengal,4414,44
 Tamil Nadu,14481,150
 Telangana,1922,18
@@ -11189,7 +10445,6 @@ Madhya Pradesh,14408,139
 Karnataka,2721,27
 Tamil Nadu,7820,81
 Delhi,41211,384
-Unknown,0,287
 Andhra Pradesh,50465,483
 Telangana,32673,306
 Delhi,1717,16
@@ -11215,7 +10470,6 @@ Bihar,10549,98
 Punjab region,6511,52
 Punjab region,61732,493
 Karnataka,37690,374
-Unknown,0,293
 Maharashtra,34318,318
 Madhya Pradesh,40736,393
 Tamil Nadu,20274,210
@@ -11231,12 +10485,10 @@ Tamil Nadu,29735,308
 Bihar,49084,456
 West Bengal,6520,65
 Delhi,36489,340
-Unknown,0,357
 Odisha,20474,208
 Tamil Nadu,36590,379
 Karnataka,39000,387
 Maharashtra,51801,480
-Unknown,0,167
 Andhra Pradesh,14836,142
 Telangana,34808,326
 Madhya Pradesh,5908,57
@@ -11267,7 +10519,6 @@ Maharashtra,17267,160
 Madhya Pradesh,12750,123
 Punjab region,38692,309
 Haryana,21152,229
-Unknown,0,140
 Telangana,37584,352
 Maharashtra,51045,473
 Andhra Pradesh,45136,432
@@ -11299,8 +10550,6 @@ Gujarat,15125,161
 Karnataka,2116,21
 Madhya Pradesh,7049,68
 Maharashtra,26332,244
-Unknown,0,9
-Unknown,0,168
 West Bengal,27485,274
 Andhra Pradesh,42628,408
 Odisha,8072,82
@@ -11308,11 +10557,9 @@ Bihar,27233,253
 Delhi,30049,280
 Maharashtra,40901,379
 Odisha,36815,374
-Unknown,0,477
 Punjab region,19283,154
 Delhi,34020,317
 Telangana,27227,255
-Unknown,0,109
 Andhra Pradesh,25493,244
 Haryana,5727,62
 Telangana,46553,436
@@ -11325,7 +10572,6 @@ Delhi,29298,273
 Karnataka,37488,372
 Tamil Nadu,33886,351
 Madhya Pradesh,16688,161
-Unknown,0,469
 Madhya Pradesh,48199,465
 Madhya Pradesh,35450,342
 Haryana,24477,265
@@ -11376,7 +10622,6 @@ Karnataka,42527,422
 Odisha,20179,205
 Madhya Pradesh,9744,94
 Maharashtra,47808,443
-Unknown,0,340
 Andhra Pradesh,24240,232
 Punjab region,55721,445
 West Bengal,18758,187
@@ -11390,13 +10635,11 @@ West Bengal,47246,471
 Madhya Pradesh,39285,379
 Tamil Nadu,38134,395
 Maharashtra,47052,436
-Unknown,0,321
 Andhra Pradesh,50569,484
 Karnataka,38395,381
 Telangana,40681,381
 Odisha,24707,251
 Odisha,32976,335
-Unknown,0,20
 Bihar,39504,367
 West Bengal,9128,91
 Delhi,4185,39
@@ -11428,7 +10671,6 @@ Madhya Pradesh,21042,203
 Madhya Pradesh,47577,459
 Karnataka,27915,277
 Maharashtra,36800,341
-Unknown,0,462
 Tamil Nadu,26066,270
 Andhra Pradesh,46285,443
 Punjab region,40570,324
@@ -11463,11 +10705,9 @@ Madhya Pradesh,2280,22
 Andhra Pradesh,51509,493
 Uttar Pradesh,20152,326
 Odisha,29038,295
-Unknown,0,89
 Bihar,19483,181
 Punjab region,14901,119
 Telangana,23063,216
-Unknown,0,117
 Odisha,25987,264
 Bihar,17330,161
 West Bengal,38519,384
@@ -11493,7 +10733,6 @@ Gujarat,44906,478
 Haryana,27894,302
 Bihar,13886,129
 Telangana,49329,462
-Unknown,0,139
 Punjab region,41697,333
 Delhi,38528,359
 Telangana,30644,287
@@ -11535,7 +10774,6 @@ Madhya Pradesh,46126,445
 Andhra Pradesh,51614,494
 Andhra Pradesh,1776,17
 Karnataka,50085,497
-Unknown,0,430
 Maharashtra,42736,396
 Punjab region,38191,305
 Andhra Pradesh,8254,79
@@ -11581,19 +10819,16 @@ Madhya Pradesh,17207,166
 Tamil Nadu,19019,197
 Madhya Pradesh,49858,481
 Andhra Pradesh,28105,269
-Unknown,0,256
 Karnataka,42325,420
 Delhi,53445,498
 Punjab region,33683,269
 Telangana,21141,198
-Unknown,0,188
 Delhi,20713,193
 Madhya Pradesh,48614,469
 Delhi,51406,479
 Haryana,32790,355
 Andhra Pradesh,15254,146
 Telangana,39186,367
-Unknown,0,366
 Gujarat,3852,41
 Maharashtra,25577,237
 Tamil Nadu,41417,429
@@ -11607,20 +10842,17 @@ Tamil Nadu,11199,116
 Odisha,2461,25
 Delhi,16956,158
 Bihar,7104,66
-Unknown,0,271
 Bihar,2906,27
 Odisha,17325,176
 Telangana,25412,238
 Gujarat,94,1
 Karnataka,3023,30
-Unknown,0,192
 Odisha,20573,209
 Maharashtra,22987,213
 Punjab region,32807,262
 Karnataka,17837,177
 Tamil Nadu,35817,371
 Odisha,42819,435
-Unknown,0,158
 Andhra Pradesh,16090,154
 Bihar,16792,156
 Madhya Pradesh,6012,58
@@ -11654,7 +10886,6 @@ Andhra Pradesh,45136,432
 Karnataka,15922,158
 Maharashtra,44570,413
 Delhi,9551,89
-Unknown,0,397
 Tamil Nadu,9751,101
 Karnataka,25698,255
 Maharashtra,39822,369
@@ -11666,7 +10897,6 @@ Delhi,23181,216
 Tamil Nadu,17957,186
 Andhra Pradesh,29150,279
 Madhya Pradesh,16999,164
-Unknown,0,429
 West Bengal,702,7
 Bihar,19375,180
 Maharashtra,49534,459
@@ -11744,7 +10974,6 @@ Madhya Pradesh,38456,371
 West Bengal,9931,99
 Odisha,15848,161
 Delhi,36918,344
-Unknown,0,29
 Punjab region,30553,244
 Punjab region,42198,337
 Karnataka,45651,453
@@ -11771,7 +11000,6 @@ Andhra Pradesh,36986,354
 Delhi,50333,469
 Haryana,5265,57
 Gujarat,25553,272
-Unknown,0,260
 Delhi,751,7
 Bihar,49945,464
 Gujarat,12025,128
@@ -11780,10 +11008,8 @@ Karnataka,21465,213
 Gujarat,26775,285
 Tamil Nadu,28287,293
 Odisha,32877,334
-Unknown,0,482
 Delhi,46791,436
 Andhra Pradesh,51509,493
-Unknown,0,45
 Telangana,21248,199
 West Bengal,18457,184
 Punjab region,26671,213
@@ -11814,7 +11040,6 @@ West Bengal,20162,201
 Haryana,30942,335
 Karnataka,38093,378
 Maharashtra,30325,281
-Unknown,0,440
 Tamil Nadu,13033,135
 Delhi,50547,471
 Andhra Pradesh,29777,285
@@ -11830,7 +11055,6 @@ Odisha,37110,377
 Gujarat,15407,164
 Delhi,2790,26
 West Bengal,8827,88
-Unknown,0,458
 Punjab region,44452,355
 Bihar,538,5
 Haryana,18658,202
@@ -11860,7 +11084,6 @@ Telangana,41108,385
 Delhi,51084,476
 Tamil Nadu,34176,354
 Andhra Pradesh,8150,78
-Unknown,0,298
 Madhya Pradesh,49029,473
 Tamil Nadu,44410,460
 Karnataka,1310,13
@@ -11888,13 +11111,11 @@ Telangana,43670,409
 Bihar,45640,424
 Punjab region,17280,138
 Tamil Nadu,20467,212
-Unknown,0,276
 Odisha,10828,110
 Bihar,29171,271
 Punjab region,5510,44
 Madhya Pradesh,49340,476
 Maharashtra,12950,120
-Unknown,0,229
 Delhi,24576,229
 Delhi,28440,265
 Odisha,29629,301
@@ -11938,7 +11159,6 @@ Karnataka,19752,196
 Tamil Nadu,40258,417
 Maharashtra,51153,474
 Telangana,24344,228
-Unknown,0,152
 Odisha,34452,350
 Karnataka,37388,371
 West Bengal,42130,420
@@ -11977,7 +11197,6 @@ Maharashtra,17051,158
 West Bengal,38619,385
 Andhra Pradesh,16195,155
 Tamil Nadu,46147,478
-Unknown,0,228
 Punjab region,29426,235
 Punjab region,62108,496
 Madhya Pradesh,15134,146
@@ -11994,7 +11213,6 @@ Andhra Pradesh,24658,236
 Delhi,23932,223
 Delhi,37132,346
 West Bengal,50155,500
-Unknown,0,347
 Odisha,45083,458
 Tamil Nadu,13323,138
 Delhi,30479,284
@@ -12014,7 +11232,6 @@ Odisha,45379,461
 Madhya Pradesh,9951,96
 Odisha,28152,286
 Andhra Pradesh,45554,436
-Unknown,0,204
 Bihar,14747,137
 Delhi,52694,491
 Tamil Nadu,26742,277
@@ -12026,10 +11243,8 @@ Punjab region,24793,198
 West Bengal,13943,139
 Andhra Pradesh,7000,67
 Maharashtra,37448,347
-Unknown,0,384
 Karnataka,47062,467
 Tamil Nadu,32631,338
-Unknown,0,470
 Telangana,6620,62
 Maharashtra,9821,91
 Odisha,45772,465
@@ -12046,7 +11261,6 @@ Andhra Pradesh,6269,60
 Telangana,30110,282
 Bihar,27879,259
 Madhya Pradesh,518,5
-Unknown,0,170
 Delhi,17171,160
 Karnataka,41419,411
 Delhi,45503,424
@@ -12066,7 +11280,6 @@ Telangana,40254,377
 Punjab region,7638,61
 West Bengal,19661,196
 Telangana,35129,329
-Unknown,0,88
 West Bengal,1806,18
 Madhya Pradesh,18451,178
 Tamil Nadu,21239,220
@@ -12095,7 +11308,6 @@ Odisha,35535,361
 West Bengal,43434,433
 Tamil Nadu,4344,45
 Maharashtra,35181,326
-Unknown,0,280
 Andhra Pradesh,11702,112
 Karnataka,42628,423
 Madhya Pradesh,11195,108
@@ -12116,7 +11328,6 @@ West Bengal,7222,72
 Punjab region,33308,266
 Telangana,28509,267
 Andhra Pradesh,6060,58
-Unknown,0,367
 Delhi,25220,235
 Bihar,50268,467
 Odisha,41146,418
@@ -12124,7 +11335,6 @@ Maharashtra,20073,186
 Odisha,33665,342
 Bihar,5382,50
 West Bengal,2307,23
-Unknown,0,352
 Andhra Pradesh,18598,178
 Punjab region,44327,354
 Madhya Pradesh,8811,85
@@ -12139,11 +11349,9 @@ Madhya Pradesh,38870,375
 Telangana,18579,174
 Karnataka,40411,401
 Andhra Pradesh,28001,268
-Unknown,0,50
 Bihar,13455,125
 Punjab region,13899,111
 Maharashtra,34858,323
-Unknown,0,339
 Andhra Pradesh,40539,388
 Telangana,14521,136
 West Bengal,48751,486
@@ -12171,7 +11379,6 @@ Punjab region,47332,378
 Delhi,31874,297
 Tamil Nadu,31859,330
 Bihar,11948,111
-Unknown,0,91
 Karnataka,31946,317
 Tamil Nadu,14674,152
 Maharashtra,33670,312
@@ -12199,7 +11406,6 @@ Tamil Nadu,3862,40
 Delhi,10303,96
 Madhya Pradesh,16688,161
 Bihar,13778,128
-Unknown,0,194
 Odisha,26381,268
 West Bengal,6520,65
 Andhra Pradesh,34897,334
@@ -12208,7 +11414,6 @@ Telangana,31178,292
 Andhra Pradesh,627,6
 Delhi,2898,27
 Odisha,295,3
-Unknown,0,272
 Tamil Nadu,5696,59
 Telangana,20180,189
 Punjab region,58226,465
@@ -12249,7 +11454,6 @@ Tamil Nadu,35141,364
 Telangana,18472,173
 Delhi,43035,401
 Maharashtra,29354,272
-Unknown,0,86
 Madhya Pradesh,28090,271
 Andhra Pradesh,17657,169
 West Bengal,46945,468
@@ -12270,7 +11474,6 @@ Bihar,12486,116
 Delhi,34771,324
 Delhi,5366,50
 Andhra Pradesh,41166,394
-Unknown,0,97
 Odisha,27956,284
 Punjab region,15276,122
 Bihar,14209,132
@@ -12292,7 +11495,6 @@ Punjab region,23165,185
 Delhi,15883,148
 Bihar,34983,325
 Bihar,4306,40
-Unknown,0,396
 West Bengal,23573,235
 Odisha,15553,158
 Andhra Pradesh,20165,193
@@ -12320,7 +11522,6 @@ Andhra Pradesh,27374,262
 Telangana,46340,434
 West Bengal,19560,195
 Maharashtra,24390,226
-Unknown,0,385
 Karnataka,42930,426
 Madhya Pradesh,27883,269
 West Bengal,24777,247
@@ -12330,7 +11531,6 @@ Telangana,20073,188
 Tamil Nadu,18247,189
 Madhya Pradesh,46541,449
 Andhra Pradesh,6478,62
-Unknown,0,131
 Delhi,11912,111
 Punjab region,30929,247
 Delhi,43035,401
@@ -12345,7 +11545,6 @@ Odisha,9351,95
 Tamil Nadu,8592,89
 Punjab region,40445,323
 West Bengal,10633,106
-Unknown,0,32
 Madhya Pradesh,7256,70
 Karnataka,24589,244
 Bihar,21959,204
@@ -12363,7 +11562,6 @@ Maharashtra,44139,409
 Tamil Nadu,17667,183
 Karnataka,34364,341
 Maharashtra,216,2
-Unknown,0,115
 Madhya Pradesh,36694,354
 Odisha,22148,225
 Madhya Pradesh,32237,311
@@ -12379,7 +11577,6 @@ Tamil Nadu,28190,292
 Maharashtra,22555,209
 Punjab region,44202,353
 Delhi,215,2
-Unknown,0,489
 West Bengal,28187,281
 Bihar,35737,332
 Madhya Pradesh,35139,339
@@ -12405,7 +11602,6 @@ Karnataka,23178,230
 Rajasthan,34372,386
 Karnataka,19752,196
 Odisha,27070,275
-Unknown,0,287
 West Bengal,16250,162
 Telangana,16550,155
 Tamil Nadu,8206,85
@@ -12421,7 +11617,6 @@ Karnataka,14310,142
 Tamil Nadu,39486,409
 Telangana,36410,341
 Andhra Pradesh,21105,202
-Unknown,0,211
 Gujarat,31190,332
 Delhi,43357,404
 Rajasthan,22796,256
@@ -12452,7 +11647,6 @@ Punjab region,13649,109
 Andhra Pradesh,7732,74
 Maharashtra,35397,328
 West Bengal,8025,80
-Unknown,0,352
 Madhya Pradesh,39078,377
 Maharashtra,48455,449
 Tamil Nadu,26356,273
@@ -12460,7 +11654,6 @@ Telangana,1068,10
 Punjab region,46956,375
 Gujarat,19917,212
 Odisha,23821,242
-Unknown,0,112
 Andhra Pradesh,21314,204
 Madhya Pradesh,19487,188
 Andhra Pradesh,47539,455
@@ -12526,7 +11719,6 @@ Madhya Pradesh,29749,287
 Tamil Nadu,28287,293
 Uttar Pradesh,11930,193
 Telangana,9076,85
-Unknown,0,139
 Madhya Pradesh,3110,30
 Madhya Pradesh,14926,144
 West Bengal,5617,56
@@ -12539,7 +11731,6 @@ Odisha,43213,439
 Delhi,21464,200
 Rajasthan,29029,326
 Madhya Pradesh,31615,305
-Unknown,0,204
 Delhi,42928,400
 Bihar,45747,425
 Punjab region,19784,158
@@ -12555,7 +11746,6 @@ Karnataka,6752,67
 Telangana,38866,364
 Tamil Nadu,46340,480
 Maharashtra,17483,162
-Unknown,0,427
 Karnataka,7357,73
 Chhattisgarh,41500,390
 Punjab region,24668,197
@@ -12577,7 +11767,6 @@ Odisha,26577,270
 Andhra Pradesh,15359,147
 Maharashtra,51477,477
 Chhattisgarh,21282,200
-Unknown,0,264
 Telangana,10464,98
 Madhya Pradesh,27676,267
 Maharashtra,17807,165
@@ -12589,13 +11778,11 @@ Andhra Pradesh,15254,146
 Uttar Pradesh,15577,252
 Karnataka,5341,53
 Telangana,25305,237
-Unknown,0,418
 Karnataka,25496,253
 Punjab region,9391,75
 Uttar Pradesh,2225,36
 Telangana,26373,247
 Maharashtra,35397,328
-Unknown,0,233
 Andhra Pradesh,7418,71
 Tamil Nadu,1834,19
 Bihar,45209,420
@@ -12604,7 +11791,6 @@ Madhya Pradesh,21456,207
 Haryana,16164,175
 Telangana,17404,163
 Puducherry,27415,154
-Unknown,0,33
 Karnataka,36077,358
 Karnataka,22977,228
 Madhya Pradesh,7567,73
